@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+_book/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.iml
