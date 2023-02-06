@@ -13,8 +13,9 @@ This repository contains information about the permissionless Migaloo Zone.
 
 ## Resources
 1. [Website](https://migaloo.zone/)
-2. [Discord](https://discord.com/invite/tSxyyCWgYX)
-3. [Twitter](https://twitter.com/Migaloo_Zone)
+2. [Tokenomics]() - Coming soon
+3. [Discord](https://discord.com/invite/tSxyyCWgYX)
+4. [Twitter](https://twitter.com/Migaloo_Zone)
 
 
 ## Contributing
