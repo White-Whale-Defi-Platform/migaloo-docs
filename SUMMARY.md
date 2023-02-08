@@ -8,6 +8,8 @@
 
 ### Developers
 * [💻 CLI (Command-Line Interface)](./gitbook/developers/cli.md)
+  * [🛠️ Installing migalood](./gitbook/developers/migalood.md)
+  * [✅ Useful CLI commands](./gitbook/developers/cli_commands.md)
 
 ### Validators
 * [🐋 Run a Node](./gitbook/validators/node.md)
