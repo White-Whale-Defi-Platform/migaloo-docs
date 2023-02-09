@@ -15,7 +15,11 @@
 * [🐋 Run a Node](./gitbook/validators/node.md)
 * [🕶 Setup Cosmovisor](./gitbook/validators/cosmovisor.md)
 * [🌐 Join the Mainnet](./gitbook/validators/mainnet.md)
+  * [💫 Sync with State-Sync](./gitbook/validators/state_sync.md)
 * [🤖 Join the Testnet](./gitbook/validators/testnet.md)
+* [🌉 Running a Relayer](./gitbook/validators/relayer.md)
+  * [🌉 Go Relayer](./gitbook/validators/go_relayer.md)
+  * [🌉 Hermes Relayer](./gitbook/validators/hermes_relayer.md)
 
 ### Governance
 * [🥩 Stake](./gitbook/governance/stake.md)
