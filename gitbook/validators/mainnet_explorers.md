@@ -1,3 +1,3 @@
 # Mainnet Block Explorers
 
-Coming soon. Meanwhile, [join the testnet](../validators/testnet.md) and [testnet block explorers](../validators/testnet_explorers.md).
+Mainnet is coming soon™, you can meanwhile [join the testnet](../validators/testnet.md).

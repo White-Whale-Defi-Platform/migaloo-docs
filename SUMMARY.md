@@ -17,7 +17,7 @@
 * [🌐 Join the Mainnet](./gitbook/validators/mainnet.md)
   * [💫 Sync with State-Sync](./gitbook/validators/state_sync.md)
   * [🤖 Mainnet Block Explorers](./gitbook/validators/mainnet_explorers.md)
-* [🤖 Join the Testnet](./gitbook/validators/testnet.md)
+* [🏟️ Join the Testnet](./gitbook/validators/testnet.md)
   * [🤖 Testnet Block Explorers](./gitbook/validators/testnet_explorers.md)
 * [🌉 Running a Relayer](./gitbook/validators/relayer.md)
   * [🌉 Go Relayer](./gitbook/validators/go_relayer.md)
