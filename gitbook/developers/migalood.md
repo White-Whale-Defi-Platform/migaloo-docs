@@ -86,4 +86,4 @@ migalood version
 
 ## Running a Node
 
-Continue with [Join the Mainnet](joining-mainnet.md) or [Join the Testnet](joining-testnet.md).
+Continue with [Join the Mainnet](../validators/mainnet.md) or [Join the Testnet](../validators/testnet.md).

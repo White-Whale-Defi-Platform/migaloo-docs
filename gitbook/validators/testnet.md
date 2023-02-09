@@ -2,7 +2,7 @@
 
 Here is a list of Migaloo testnets along with their current status. You will need to know the version tag for
 installation of the `migalood` binary. To install `migalood`, follow the instructions in
-the [installing migalood](./gitbook/developers/migalood.md) section.
+the [installing migalood](../developers/migalood.md) section.
 
 To keep up with upgrades and syncing information on the active testnet, refer to the testnets repository, which is the
 definitive source of truth.

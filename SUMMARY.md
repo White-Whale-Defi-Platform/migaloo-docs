@@ -7,7 +7,7 @@
 * [👜 Wallets](./gitbook/learn/wallets.md)
 
 ### Developers
-* [💻 CLI (Command-Line Interface)](./gitbook/developers/cli.md)
+* [🖥️ CLI (Command-Line Interface)](./gitbook/developers/cli.md)
   * [🛠️ Installing migalood](./gitbook/developers/migalood.md)
   * [✅ Useful CLI commands](./gitbook/developers/cli_commands.md)
 

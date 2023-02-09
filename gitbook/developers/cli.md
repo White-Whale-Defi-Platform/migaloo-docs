@@ -4,4 +4,4 @@
 connects to a node and allows you to send transactions, query the state, and perform other actions such as voting for gov
 proposals or transferring funds.
 
-To install the migalood binary, follow the instructions in the [Installing migalood](./gitbook/developers/migalood.md) section.
+To install the migalood binary, follow the instructions in the [Installing migalood](migalood.md) section.
