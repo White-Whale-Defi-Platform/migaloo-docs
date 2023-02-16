@@ -174,7 +174,7 @@ to the network current block and you are safe to proceed to upgrade to a validat
 
 {% hint style="info" %}
 Validators and sentries can rapidly join the network with state-sync. See instructions for using
-state-sync [here](./gitbook/validators/state_sync.md).
+state-sync [here](./state_sync.md).
 {% endhint %}
 
 ## Upgrade to a validator
