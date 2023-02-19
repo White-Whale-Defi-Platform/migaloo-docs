@@ -27,3 +27,8 @@
 * [🥩 Stake](./gitbook/governance/stake.md)
 * [🗳️ Vote](./gitbook/governance/vote.md)
 * [📝 Submit a Governance Proposal](./gitbook/governance/submit_proposal.md)
+
+### Brand Assets
+* [🎨 Colors](./gitbook/brand-assets/colors.md)
+* [🐳 Logo Options](./gitbook/brand-assets/logos.md)
+* [🖌 Fonts](./gitbook/brand-assets/fonts.md)
