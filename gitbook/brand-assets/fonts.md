@@ -1,4 +1,4 @@
-# Fonts
+# 🖌 Fonts
 
 ## Global Font
 

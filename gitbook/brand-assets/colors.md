@@ -1,4 +1,4 @@
-# Colors
+# 🎨 Colors
 
 Standard colors used across the Migaloo dApps.
 
