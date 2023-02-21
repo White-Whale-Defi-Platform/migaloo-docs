@@ -1,3 +1,7 @@
 # Mainnet Block Explorers
 
-Mainnet is coming soon™, you can meanwhile [join the testnet](../validators/testnet.md).
+There are few block explorers available for the mainnet. You can use them to check the status of your node and transactions.
+
+- [Silk Nodes](https://explorer.silknodes.io/migaloo)
+- [Nodes Guru](https://migaloo.explorers.guru/)
+- [Ping Pub](https://ping.pub/migaloo)
