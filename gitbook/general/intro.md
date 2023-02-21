@@ -7,9 +7,9 @@ Migaloo is a permission-less, open source network for decentralized interoperabl
 
 Token: WHALE  
 ChainID: migaloo-1  
-Chain Logo: https://whitewhale.money/migaloo.svg  
-Chain Logo Alt: https://whitewhale.money/migaloo_alt.svg  
-Token Logo: https://whitewhale.money/logo.svg
+Chain Logo: [https://whitewhale.money/migaloo.svg](https://whitewhale.money/migaloo.svg)  
+Chain Logo Alt: [https://whitewhale.money/migaloo_alt.svg](https://whitewhale.money/migaloo_alt.svg)  
+Token Logo: [https://whitewhale.money/logo.svg](https://whitewhale.money/logo.svg)
 
 Keplr config:
 

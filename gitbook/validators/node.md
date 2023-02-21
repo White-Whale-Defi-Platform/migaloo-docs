@@ -1,3 +1,3 @@
 # Run a Node
 
-We recommend follow our frens at Polkachu's guide: https://polkachu.com/installation/whitewhale
+We recommend following Polkachu's guide: [https://polkachu.com/installation/migaloo](https://polkachu.com/installation/migaloo)
