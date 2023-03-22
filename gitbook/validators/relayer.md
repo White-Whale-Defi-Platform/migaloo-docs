@@ -12,7 +12,7 @@ IBC channels:
 | Comdex    | 12 <> 63 |
 | Huahua    | 10 <> 39 |
 | Kujira    | 8 <> 58  |
-| Carbon    | 13 <> 22 |
+| Carbon    | 14 <> 24 |
 
 _NOTE: First number is the channel to Migaloo and second number is the channel from Migaloo._
 
