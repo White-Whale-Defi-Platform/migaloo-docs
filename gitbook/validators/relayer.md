@@ -14,7 +14,7 @@ IBC channels:
 | Kujira    | 8 <> 58  |
 | Carbon    | 14 <> 24 |
 
-_NOTE: First number is the channel to Migaloo and second number is the channel from Migaloo._
+_NOTE: First number is the source and second is destination. Example: Migaloo 0 <-> 86 Terra. On Migaloo, you go from channel 0. Source is always Migaloo first_
 
 Add your mainnet relayer information [here](https://docs.google.com/spreadsheets/d/1lWDOkWRgy_mU0LEuTPwv5Z4dclNw2OCDTNQMzw0RzyQ/edit#gid=0)
 
