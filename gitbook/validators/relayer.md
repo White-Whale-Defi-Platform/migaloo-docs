@@ -8,7 +8,7 @@ IBC channels:
 | Juno      | 1 <> 210 |
 | Injective | 3 <> 102 |
 | Secret    | 4 <> 57  |
-| Osmosis   | 5 <> 64  |
+| Osmosis   | 5 <> 642 |
 | Comdex    | 12 <> 63 |
 | Huahua    | 10 <> 39 |
 | Kujira    | 8 <> 58  |
