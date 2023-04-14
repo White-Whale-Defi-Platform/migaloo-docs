@@ -11,6 +11,7 @@ Bridge: [TFM](https://tfm.com/bridge)
 Repo: [Github](https://github.com/White-Whale-Defi-Platform/migaloo-chain)
 
 Mainnet Explorers: [SilkNodes](https://explorer.silknodes.io/migaloo), [NodesGuru](https://migaloo.explorers.guru/), [PingPub](https://ping.pub/migaloo/staking)
+
 Testnet: [NodesGuru](https://testnet.migaloo.explorers.guru/)
 
 Validator Analysis: [Observatory](https://observatory.zone/migaloo), [Smart Stake](https://migaloo.smartstake.io/stats)
