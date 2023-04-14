@@ -20,7 +20,7 @@ Public Nodes: [cosmos.directory](https://cosmos.directory/migaloo)
 
 Liquid Staking Providers: [Eris](https://www.erisprotocol.com/migaloo/amplifier), [BackBoneLabs](https://migaloo.gravedigger.zone/)
 
-Autocompounding Plain Staking: [Yieldmos](https://www.yieldmos.com/strategies/whale-staking-rewards),[reStake](https://restake.app/migaloo)
+Autocompounding Plain Staking: [Yieldmos](https://www.yieldmos.com/strategies/whale-staking-rewards),[reStake](https://restake.app/migaloo)  
 _Pick your validator to autocompound to_
 
 ### Investing
@@ -36,28 +36,30 @@ White Whale Dapp on Terra: [TFM](https://tfm.com/terra2/trade/analytics/tokens/i
 
 ## White Whale Protocol:
 
-Website: https://whitewhale.money/
-App: https://app.whitewhale.money/juno/swap
+[Website](https://whitewhale.money/)
 
-Protocol Whitepaper: https://whitewhale.money/LitepaperV2.pdf
+[App](https://app.whitewhale.money/)
 
-Contracts Repo: https://github.com/White-Whale-Defi-Platform/white-whale-core
+[Protocol Whitepaper](https://whitewhale.money/LitepaperV2.pdf)
 
-Open Source Bot Repo: https://github.com/White-Whale-Defi-Platform/white-whale-bots/
+[Contracts Repo](https://github.com/White-Whale-Defi-Platform/white-whale-core)
 
-Protocol Docs: https://docs.whitewhale.money/white-whale-docs/
+[Open Source Bot Repo](https://github.com/White-Whale-Defi-Platform/white-whale-bots/)  
+_Have questions on how to run a bot? Join our discord._
+
+[Protocol Docs](https://docs.whitewhale.money/white-whale-docs/)
 
 ## Learn
 
-Video Tuturials: [Youtube](https://www.youtube.com/playlist?list=PLlB6D78o5V-mGKv07MZN-EGLwax8dbAyI)
+Video Tuturials: [Youtube](https://www.youtube.com/playlist?list=PLlB6D78o5V-mGKv07MZN-EGLwax8dbAyI)  
 _How to use migaloo_
 
 How to do IBC transfer: [keplr](https://help.keplr.app/articles/ibc-transfers)
 
-**Recent Media:**
-Danku [Youtube](https://www.youtube.com/watch?v=CURBHmNHaM8&ab_channel=danku_r)
-CosmosJoe: [Youtue](https://www.youtube.com/watch?v=26gyqDjKf5c&ab_channel=CosmosJoe~CryptoMedia)
-Our latest MEV bot workshop (HIGHLY RECOMMEND): [Youtube](https://www.youtube.com/watch?v=y9s6whEKSnY)
+**Recent Media:**  
+Danku: [Youtube](https://www.youtube.com/watch?v=CURBHmNHaM8&ab_channel=danku_r)  
+CosmosJoe: [Youtube](https://www.youtube.com/watch?v=26gyqDjKf5c&ab_channel=CosmosJoe~CryptoMedia)  
+Our latest MEV bot workshop (HIGHLY RECOMMEND): [Youtube](https://www.youtube.com/watch?v=y9s6whEKSnY)  
 Recent Twitter Space: [cosmosibc](https://www.cosmosibc.space/2023/4/1416101532282638348/White_Whale_Community_Call.mp3)
 
 ## Support the Team
