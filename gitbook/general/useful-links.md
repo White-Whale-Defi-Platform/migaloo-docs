@@ -57,8 +57,8 @@ _How to use migaloo_
 How to do IBC transfer: [keplr](https://help.keplr.app/articles/ibc-transfers)
 
 **Recent Media:**  
-Danku [Youtube](https://www.youtube.com/watch?v=CURBHmNHaM8&ab_channel=danku_r)  
-CosmosJoe: [Youtue](https://www.youtube.com/watch?v=26gyqDjKf5c&ab_channel=CosmosJoe~CryptoMedia)  
+Danku: [Youtube](https://www.youtube.com/watch?v=CURBHmNHaM8&ab_channel=danku_r)  
+CosmosJoe: [Youtube](https://www.youtube.com/watch?v=26gyqDjKf5c&ab_channel=CosmosJoe~CryptoMedia)  
 Our latest MEV bot workshop (HIGHLY RECOMMEND): [Youtube](https://www.youtube.com/watch?v=y9s6whEKSnY)  
 Recent Twitter Space: [cosmosibc](https://www.cosmosibc.space/2023/4/1416101532282638348/White_Whale_Community_Call.mp3)
 
