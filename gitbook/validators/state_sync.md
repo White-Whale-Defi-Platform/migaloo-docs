@@ -17,4 +17,4 @@ the network would not be appropriate.
 
 ## Mainnet state-sync
 
-Coming soon™.
+State-sync with [Polkachu](https://polkachu.com/state_sync/migaloo)
