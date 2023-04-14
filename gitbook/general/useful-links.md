@@ -24,13 +24,13 @@ _Pick your validator to autocompound to_
 
 ### Investing
 
-**Trading**
+**Trading**  
 Osmosis: [Whale/Osmo](https://app.osmosis.zone/pool/960)  
-White Whale Dapp on Terra: [Whale/axlUSDC](https://app.whitewhale.money/terra/swap?from=axlUSDC&to=WHALE)
+White Whale Dapp on Terra: [Whale/axlUSDC](https://app.whitewhale.money/terra/swap?from=axlUSDC&to=WHALE)  
 Kujira: [Whale/USK](https://fin.kujira.app/trade/kujira1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3sl8nek6?q=usk)
 
-**Charts**
-Osmosis: [info.osmosis](https://info.osmosis.zone/token/WHALE), [dex screener](https://dexscreener.com/osmosis/960)
+**Charts**  
+Osmosis: [info.osmosis](https://info.osmosis.zone/token/WHALE), [dex screener](https://dexscreener.com/osmosis/960)  
 White Whale Dapp on Terra: [TFM](https://tfm.com/terra2/trade/analytics/tokens/ibc%2F36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB?from=uluna&to=ibc%2FB3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4&market=Astroport), [Coinhall](https://coinhall.org/terra/terra1qdu4g5zxxtmwsd95v8vjslq5874nkcull7ejycm0gy2v7p5qc67qenkf8t)
 
 ## White Whale Protocol:
