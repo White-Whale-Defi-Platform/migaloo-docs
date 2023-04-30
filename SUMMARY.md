@@ -4,7 +4,7 @@
 - [📜 Introduction](./gitbook/general/intro.md)
 - [🔗 Useful Links](./gitbook/general/useful-links.md)
 - [🛠️ Build with Us](./gitbook/general/build.md)
-- [🐋 Community DAO](./gitbook/general/build.md)
+- [🐋 Community DAO](./gitbook/general/community-dao.md)
 
 ### Learn
 
