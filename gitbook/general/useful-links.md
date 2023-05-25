@@ -19,6 +19,7 @@
 | Bridge                   | [TFM](https://tfm.com/bridge)                                                                                                                                                   |
 | TVL                      | [DefiLlama](https://defillama.com/chain/Migaloo)                                                                                                                                |
 | IBC                      | [MapOfZones](https://mapofzones.com/zones/migaloo-1/overview), [MapOfZone-Chart](https://mapofzones.com/home/migaloo-1/overview?columnKey=ibcVolume&period=24h)                 |
+| Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                   |
 | Community Made Resources | [TerraEngineer](https://terra.engineer/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                    |
 
 ---
