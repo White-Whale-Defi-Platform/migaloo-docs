@@ -11,7 +11,7 @@ DAO tooling will be coming soon. Until then, the Migaloo Community DAO is a coll
 Be sure to follow the Community DAO on [Twitter](https://twitter.com/MigalooCmtyDAO)
 
 Other good follows:  
-[WhaleyDAO](https://twitter.com/WhaleyDAO)
-[Nick134](https://twitter.com/NCK134)
-[zJ](https://twitter.com/zJu_u)
+[WhaleyDAO](https://twitter.com/WhaleyDAO)  
+[Nick134](https://twitter.com/NCK134)  
+[zJ](https://twitter.com/zJu_u)  
 [Maslin](https://twitter.com/maslinedwin)
