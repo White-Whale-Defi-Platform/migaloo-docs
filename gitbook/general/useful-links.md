@@ -1,7 +1,6 @@
 # Useful Links
 
 <br />
-<br />
 
 ## Chain Info
 
@@ -9,7 +8,7 @@
 
 | Info                     | Link                                                                                                                                                                            |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Supply Details           | [https://apex.migaloo.zone/](https://apex.migaloo.zone/)                                                                                                                        |
+| Supply Details           | [apex.migaloo.zone](https://apex.migaloo.zone/)                                                                                                                                 |
 | Repo                     | [Github](https://github.com/White-Whale-Defi-Platform/migaloo-chain)                                                                                                            |
 | Mainnet Explorers        | [SilkNodes](https://explorer.silknodes.io/migaloo), [NodesGuru](https://migaloo.explorers.guru/), [PingPub](https://ping.pub/migaloo), [AtomScan](https://atomscan.com/migaloo) |
 | Testnet                  | [NodesGuru](https://testnet.migaloo.explorers.guru/), [NodeStake](https://explorer.nodestake.top/whitewhale-testnet)                                                            |
@@ -24,7 +23,6 @@
 
 ---
 
-<br />
 <br />
 
 ## Staking
@@ -42,7 +40,6 @@
 ---
 
 <br />
-<br />
 
 ## Price, Trading, Charts
 
@@ -56,30 +53,29 @@
 ---
 
 <br />
-<br />
 
 ## White Whale Protocol:
 
-| Link                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Website](https://whitewhale.money/)                                                                                                            |
-| [App](https://app.whitewhale.money/)                                                                                                            |
-| [Protocol Whitepaper](https://whitewhale.money/LitepaperV2.pdf)                                                                                 |
-| [Contracts Repo](https://github.com/White-Whale-Defi-Platform/white-whale-core)                                                                 |
-| [Open Source Bot Repo](https://github.com/White-Whale-Defi-Platform/white-whale-bots/) (_Have questions on how to run a bot? Join our discord_) |
-| [Protocol Docs](https://docs.whitewhale.money/white-whale-docs/)                                                                                |
+| Info                             | Link                                                                                                                                          |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Learn about White Whale          | [whitewhale.money](https://whitewhale.money/)                                                                                                 |
+| Trade & LP on 5 different chains | [app.whitewhale.money](https://app.whitewhale.money/)                                                                                         |
+| Volume and trading info          | [info.whitewhale.money](https://info.whitewhale.money/)                                                                                       |
+| Technical details                | [Protocol Docs](https://docs.whitewhale.money/white-whale-docs/)                                                                              |
+| Deep Dive into the Protocol      | [Protocol Whitepaper](https://whitewhale.money/LitepaperV2.pdf)                                                                               |
+| Open source code                 | [Contracts Repo](https://github.com/White-Whale-Defi-Platform/white-whale-core)                                                               |
+| Open Source bots                 | [Arbitrage Bot Repo](https://github.com/White-Whale-Defi-Platform/white-whale-bots/) (_Have questions on how to run a bot? Join our discord_) |
 
 ---
 
 <br />
-<br />
 
 ## Learn
 
-| Info                              | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Video Tuturials                   | [Youtube](https://www.youtube.com/playlist?list=PLlB6D78o5V-mGKv07MZN-EGLwax8dbAyI)                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Recent Media (_newest to oldest_) | [Baremetal Podcast](https://www.youtube.com/watch?v=PacxAwicXS4), [Just Crypto](https://www.youtube.com/watch?v=tZDrMlX2rI4), [Recent Twitter Space](https://www.cosmosibc.space/2023/4/1416101532282638348/White_Whale_Community_Call.mp3), [Danku](https://www.youtube.com/watch?v=CURBHmNHaM8&ab_channel=danku_r), [CosmosJoe](https://www.youtube.com/watch?v=26gyqDjKf5c&ab_channel=CosmosJoe~CryptoMedia), [Our latest MEV bot workshop (HIGHLY RECOMMEND)](https://www.youtube.com/watch?v=y9s6whEKSnY) |
+| Info                              | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Video Tuturials                   | [Youtube](https://www.youtube.com/playlist?list=PLlB6D78o5V-mGKv07MZN-EGLwax8dbAyI)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Recent Media (_newest to oldest_) | [Gateway2023](https://www.youtube.com/watch?v=ceCtyo8chOA), [Baremetal Podcast](https://www.youtube.com/watch?v=PacxAwicXS4), [Just Crypto](https://www.youtube.com/watch?v=tZDrMlX2rI4), [Recent Twitter Space](https://www.cosmosibc.space/2023/4/1416101532282638348/White_Whale_Community_Call.mp3), [Danku](https://www.youtube.com/watch?v=CURBHmNHaM8&ab_channel=danku_r), [CosmosJoe](https://www.youtube.com/watch?v=26gyqDjKf5c&ab_channel=CosmosJoe~CryptoMedia), [MEV Bot Workshop](https://www.youtube.com/watch?v=y9s6whEKSnY) |
 
 ---
 
