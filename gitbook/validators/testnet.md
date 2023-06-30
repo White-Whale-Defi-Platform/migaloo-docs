@@ -12,7 +12,7 @@ on [Discord](https://discord.com/invite/tSxyyCWgYX).
 
 | chain-id  | Version Tag | Status |                     RPC                      |                     API                      |
 |:---------:|:-----------:|--------|:--------------------------------------------:|:--------------------------------------------:|
-| narwhal-1 | v1.0.0-rc0  | Active | https://whitewhale-testnet-rpc.polkachu.com/ | https://whitewhale-testnet-api.polkachu.com/ |
+| narwhal-1 | v1.0.0-rc0  | Active | https://migaloo-testnet-rpc.polkachu.com/ | https://migaloo-testnet-api.polkachu.com/ |
 
 For information like State-Sync, Node Snapshots and more, please refer
 to [Polkachu's Migaloo Testnet page](https://polkachu.com/testnets/whitewhale).
