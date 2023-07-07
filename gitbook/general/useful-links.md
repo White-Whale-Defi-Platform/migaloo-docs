@@ -25,6 +25,15 @@
 
 <br />
 
+## dApps
+
+| Info              | Link                                     |
+| ----------------- | ---------------------------------------- |
+| Burn Whale Tokens | [Furnace](https://whale.burn.community/) |
+| Casino Games      | [Racoon.bet](https://racoon.bet)         |
+
+<br />
+
 ## Staking
 
 <!-- **Staking** -->
@@ -65,6 +74,7 @@
 | Deep Dive into the Protocol      | [Protocol Whitepaper](https://whitewhale.money/LitepaperV2.pdf)                                                                               |
 | Open source code                 | [Contracts Repo](https://github.com/White-Whale-Defi-Platform/white-whale-core)                                                               |
 | Open Source bots                 | [Arbitrage Bot Repo](https://github.com/White-Whale-Defi-Platform/white-whale-bots/) (_Have questions on how to run a bot? Join our discord_) |
+| Auto-claim bonding rewards       | [NoDumpNode](https://tools.nodumpnode.com/)                                                                                                   |
 
 ---
 
