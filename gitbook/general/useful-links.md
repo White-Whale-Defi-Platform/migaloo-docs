@@ -19,7 +19,7 @@
 | TVL                      | [DefiLlama](https://defillama.com/chain/Migaloo)                                                                                                                                |
 | IBC                      | [MapOfZones](https://mapofzones.com/zones/migaloo-1/overview), [MapOfZone-Chart](https://mapofzones.com/home/migaloo-1/overview?columnKey=ibcVolume&period=24h)                 |
 | Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                   |
-| Community Made Resources | [TerraEngineer](https://terra.engineer/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                    |
+| Community Made Resources | [TerraEngineer](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                       |
 
 ---
 
@@ -75,6 +75,7 @@
 | Open source code                 | [Contracts Repo](https://github.com/White-Whale-Defi-Platform/white-whale-core)                                                               |
 | Open Source bots                 | [Arbitrage Bot Repo](https://github.com/White-Whale-Defi-Platform/white-whale-bots/) (_Have questions on how to run a bot? Join our discord_) |
 | Auto-claim bonding rewards       | [NoDumpNode](https://tools.nodumpnode.com/)                                                                                                   |
+| Deployments                      | [deving.zone](https://deving.zone/en/protocols/white_whale)                                                                                   |
 
 ---
 
