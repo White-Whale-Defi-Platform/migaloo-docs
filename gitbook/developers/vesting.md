@@ -76,6 +76,10 @@ When creating a vesting account for 5m tokens with 10% upfront we will have 2 's
 
 Example JSON object:
 
+For the upfront; any two dates in the past will work, such as `1692704960` and `1692704961`. The `amount` should be zero for the `start_point` and the total amount to be vested 'upfront' for the `end_point`.
+
+For the remainder this can be vested in one schedule or multiple schedules. In this example we will use one schedule which runs for 18 months. 
+
 ```json
 {
   "register_vesting_accounts": {
@@ -85,24 +89,25 @@ Example JSON object:
         "schedules": [
           {
             "start_point": {
-              "time": 1683727249,
+              "time": 1692704960,
               "amount": "0"
             },
             "end_point": {
-              "time": 1683734436,
+              "time": 1692704961,
               "amount": "500000000000"
             }
           },
           {
             "start_point": {
-              "time": 1683734436,
+              "time": 1692704961,
               "amount": "500000000000"
             },
             "end_point": {
-              "time": 1683734436,
+              "time": 1740503392,
               "amount": "4500000000000"
             }
-          }]
+          }
+        ]
       }]
   }
 }
