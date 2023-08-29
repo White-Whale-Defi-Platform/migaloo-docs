@@ -1,8 +1,16 @@
 # Vesting on Migaloo
 
-<!-- Need a table of all the links or a list  -->
-
-
+- [Vesting on Migaloo](#vesting-on-migaloo)
+  - [Overview](#overview)
+  - [Deployments and associated information](#deployments-and-associated-information)
+  - [Usage](#usage)
+    - [Running from CLI](#running-from-cli)
+  - [Examples](#examples)
+    - [General Case a linear vesting over 1 year](#general-case-a-linear-vesting-over-1-year)
+    - [How to instantiate a new vesting account](#how-to-instantiate-a-new-vesting-account)
+    - [Vesting account with an amount upfront](#vesting-account-with-an-amount-upfront)
+    - [Vesting account with a Cliff](#vesting-account-with-a-cliff)
+    - [Claiming from CLI](#claiming-from-cli)
 
 
 
@@ -31,6 +39,37 @@ The above command demonstrates the creation of a vesting account for an address 
 
 ## Examples 
 The following are a few pre-made examples with info describing each one in details. The purpose is to have a quick reference for the creation of future vesting props 
+
+### General Case a linear vesting over 1 year
+This case is the most basic and common example we may find when using a vesting contract. 
+The deployed vesting contract supports this both with or without clawbackableness enabling the contract 
+to be used for non-returnable vests such as funding and token agreements. 
+
+The below example shows a vesting account for 1 token that will vest linearly over 1 year.
+Note clawbackable can be excluded but we explicity set it to false for readability in Governance props 
+```json
+{
+  "register_vesting_accounts": {
+    "vesting_accounts": [
+      {
+        "address": "migaloo179mrmjfyqj5zcp8t90tnccjds4rnm3tk0jul4e",
+        "schedules": [
+          {
+            "start_point": {
+              "time": 1683727249,
+              "amount": "0"
+            },
+            "end_point": {
+              "time": 1740503392,
+              "amount": "1000000"
+            }
+          }],
+        "clawbackable": false
+      }]
+  }
+}
+```
+
 ### How to instantiate a new vesting account
 
 To instantiate a new vesting account, follow these steps:
