@@ -20,6 +20,7 @@
 | IBC                      | [MapOfZones](https://mapofzones.com/zones/migaloo-1/overview), [MapOfZone-Chart](https://mapofzones.com/home/migaloo-1/overview?columnKey=ibcVolume&period=24h)                 |
 | Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                   |
 | Community Made Resources | [TerraEngineer](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                       |
+| Alliance Dashboard       | [Stats](https://alliance-dashboard.terra.money/?selected=migaloo)                                                                                                               |
 
 ---
 
@@ -31,6 +32,8 @@
 | ----------------- | ---------------------------------------- |
 | Burn Whale Tokens | [Furnace](https://whale.burn.community/) |
 | Casino Games      | [Racoon.bet](https://racoon.bet)         |
+
+---
 
 <br />
 
@@ -65,17 +68,17 @@
 
 ## White Whale Protocol:
 
-| Info                             | Link                                                                                                                                          |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Learn about White Whale          | [whitewhale.money](https://whitewhale.money/)                                                                                                 |
-| Trade & LP on 5 different chains | [app.whitewhale.money](https://app.whitewhale.money/)                                                                                         |
-| Volume and trading info          | [info.whitewhale.money](https://info.whitewhale.money/)                                                                                       |
-| Technical details                | [Protocol Docs](https://docs.whitewhale.money/white-whale-docs/)                                                                              |
-| Deep Dive into the Protocol      | [Protocol Whitepaper](https://whitewhale.money/LitepaperV2.pdf)                                                                               |
-| Open source code                 | [Contracts Repo](https://github.com/White-Whale-Defi-Platform/white-whale-core)                                                               |
-| Open Source bots                 | [Arbitrage Bot Repo](https://github.com/White-Whale-Defi-Platform/white-whale-bots/) (_Have questions on how to run a bot? Join our discord_) |
-| Auto-claim bonding rewards       | [NoDumpNode](https://tools.nodumpnode.com/)                                                                                                   |
-| Deployments                      | [deving.zone](https://deving.zone/en/protocols/white_whale)                                                                                   |
+| Info                           | Link                                                                                                                                          |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Learn about White Whale        | [whitewhale.money](https://whitewhale.money/)                                                                                                 |
+| Trade & LP on different chains | [app.whitewhale.money](https://app.whitewhale.money/)                                                                                         |
+| Volume and trading info        | [info.whitewhale.money](https://info.whitewhale.money/)                                                                                       |
+| Technical details              | [Protocol Docs](https://docs.whitewhale.money/white-whale-docs/)                                                                              |
+| Deep Dive into the Protocol    | [Protocol Whitepaper](https://whitewhale.money/LitepaperV2.pdf)                                                                               |
+| Open source code               | [Contracts Repo](https://github.com/White-Whale-Defi-Platform/white-whale-core)                                                               |
+| Open Source bots               | [Arbitrage Bot Repo](https://github.com/White-Whale-Defi-Platform/white-whale-bots/) (_Have questions on how to run a bot? Join our discord_) |
+| Auto-claim bonding rewards     | [NoDumpNode](https://tools.nodumpnode.com/)                                                                                                   |
+| Deployments                    | [deving.zone](https://deving.zone/en/protocols/white_whale)                                                                                   |
 
 ---
 
@@ -99,3 +102,5 @@
 | -------------------------- | --------------------------------------------------------------- |
 | Delegate to our Validators | [Yieldmos](https://www.yieldmos.com/v/white-whale/)             |
 | Our Chains                 | [Mintscan](https://hub.mintscan.io/validators/stats/whitewhale) |
+
+---

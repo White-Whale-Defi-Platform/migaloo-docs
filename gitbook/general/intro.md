@@ -6,6 +6,7 @@ Migaloo is a permission-less, open source network for decentralized interoperabl
 - Home to the White Whale Protocol
 - Native Token Factory
 - [Skip MEV](https://skip.money/)
-- Global Fee Module
-- Packet Forwarding Middleware (PFM)
-- IBC Hooks
+- IBC 7
+- SDK46
+- Packet Forwarding Middleware (Soon)
+- IBC Hooks (Soon)
