@@ -17,6 +17,8 @@ IBC channels:
 | Umee      | 22 <> 57  |
 | Kava      | 48 <> 120 |
 | Axelar    | 49 <> 112 |
+| Lunc      | 59 <> 84  |
+| SEI       | 57 <> 14  |
 
 _NOTE: First number is the source and second is destination. Example: Migaloo 0 <-> 86 Terra. On Migaloo, you go from channel 0. Source is always Migaloo first_
 
