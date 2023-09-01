@@ -16,7 +16,7 @@ IBC channels:
 | Neutron   | 27 <> 57  |
 | Umee      | 22 <> 57  |
 | Kava      | 48 <> 120 |
-| Axelar    | 49 <> 112 |
+| Axelar    | 53 <> 121 |
 | Lunc      | 59 <> 84  |
 | SEI       | 57 <> 14  |
 
