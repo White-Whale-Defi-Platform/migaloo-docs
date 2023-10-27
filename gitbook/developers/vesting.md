@@ -191,11 +191,17 @@ This is a major difference to a native cosmos-sdk vesting account in that the to
 
 To claim the tokens you will need to know the vesting contract address and the recipient address. The recipient address is the address that the vesting account was created for.
 
+### Query the amount of claimable token
+```
+migalood query wasm contract-state smart migaloo15l9a6jpc86dkh366vpqn588pjuhvh0k87kwgmsqp2hsp349w0hvqguj5aw '{ "available_amount": { "address": "migaloo179mrmjfyqj5zcp8t90tnccjds4rnm3tk0jul4e"}}' --node https://...
+```
+
 ### Claiming from CLI 
 
-TODO: Review this example with community and verify its good enough, is more info needed? 
+This example is for claiming 1000000uwhale. You still need to change the ``` --node ``` flag with a migaloo-rpc node URL
+
 ```json
 
-migalood tx wasm execute migaloo15l9a6jpc86dkh366vpqn588pjuhvh0k87kwgmsqp2hsp349w0hvqguj5aw '{"claim":{"recipient":"migaloo179mrmjfyqj5zcp8t90tnccjds4rnm3tk0jul4e"}}' --amount 1000000uwhale --from migaloo179mrmjfyqj5zcp8t90tnccjds4rnm3tk0jul4e
+migalood tx wasm execute migaloo15l9a6jpc86dkh366vpqn588pjuhvh0k87kwgmsqp2hsp349w0hvqguj5aw '{"claim":{"recipient":"migaloo179mrmjfyqj5zcp8t90tnccjds4rnm3tk0jul4e", "amount":"1000000"}}' --from migaloo179mrmjfyqj5zcp8t90tnccjds4rnm3tk0jul4e --chain-id migaloo-1 --node https://...
 ```
 
