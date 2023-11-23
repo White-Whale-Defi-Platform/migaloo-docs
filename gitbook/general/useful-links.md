@@ -21,6 +21,7 @@
 | Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                |
 | Community Made Resources | [TerraEngineer](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                    |
 | Alliance Dashboard       | [Stats](https://alliance-dashboard.terra.money/?selected=migaloo)                                                                                                            |
+| Ecosystem page           | [ecosystem.migaloo.zone](https://ecosystem.migaloo.zone/)                                                                                                                    |
 
 ---
 
@@ -33,10 +34,13 @@
 | Burn Whale Tokens | [Furnace](https://whale.burn.community/)                     |
 | Casino Games      | [Racoon.bet](https://racoon.bet)                             |
 | Bank of Alliance  | [Ginkou](https://ginkou.io/)                                 |
-| Betting           | [Shark Protocol](https://www.sharkprotocol.bet/)             |
+| Betting (beta)    | [Shark Protocol](https://www.sharkprotocol.bet/)             |
 | NFT Marketplace   | [Necropolis](https://necropolisnft.io/nfts/listed)           |
 | Liquid Staking    | [Eris](https://www.erisprotocol.com/migaloo/amplifier/WHALE) |
 | Liquid Staking    | [Backbone Labs](https://migaloo.gravedigger.zone/)           |
+| Paint             | [Migaloo Paint](https://paint.migaloo.zone)                  |
+| Spark             | Coming soon...                                               |
+| NFT P2P brokerage | [NFT Switch](https://dapp.nftswitch.xyz/switch)              |
 
 ---
 
