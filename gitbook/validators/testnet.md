@@ -10,12 +10,12 @@ definitive source of truth.
 If you encounter any difficulties, don't hesitate to seek assistance
 on [Discord](https://discord.com/invite/tSxyyCWgYX).
 
-| chain-id  | Version Tag | Status |                     RPC                      |                     API                      |
-|:---------:|:-----------:|--------|:--------------------------------------------:|:--------------------------------------------:|
-| narwhal-1 | v1.0.0-rc0  | Active | https://whitewhale-testnet-rpc.polkachu.com/ | https://whitewhale-testnet-api.polkachu.com/ |
+| chain-id  |    Version Tag     | Status |                     RPC                      |                     API                      |
+| :-------: | :----------------: | ------ | :------------------------------------------: | :------------------------------------------: |
+| narwhal-2 | v4.1.0-testnet-rc2 | Active | https://whitewhale-testnet-rpc.polkachu.com/ | https://whitewhale-testnet-api.polkachu.com/ |
 
 For information like State-Sync, Node Snapshots and more, please refer
-to [Polkachu's Migaloo Testnet page](https://polkachu.com/testnets/whitewhale).
+to [Polkachu's Migaloo Testnet page](https://polkachu.com/testnets/migaloo).
 
 ## Minimum Hardware Requirements
 
@@ -51,7 +51,7 @@ To clear a variable binding, use `unset $VARIABLE_NAME`. Shell variables should 
 Set the `CHAIN_ID`:
 
 ```bash
-CHAIN_ID=narwhal-1
+CHAIN_ID=narwhal-2
 ```
 
 ## Set your moniker name
@@ -84,9 +84,9 @@ migalood init $MONIKER_NAME --chain-id $CHAIN_ID
 
 This will generate the following files in `~/.migalood/config/`
 
-* `genesis.json`
-* `node_key.json`
-* `priv_validator_key.json`
+- `genesis.json`
+- `node_key.json`
+- `priv_validator_key.json`
 
 {% hint style="info" %}
 Note that this means if you jumped ahead and already downloaded the genesis file, this command will replace it and you
@@ -96,7 +96,7 @@ will get an error when you attempt to start the chain.
 ## Download the genesis file
 
 ```
-curl https://raw.githubusercontent.com/White-Whale-Defi-Platform/migaloo-chain/main/networks/testnet/genesis.json > ~/.migalood/config/genesis.json
+curl https://raw.githubusercontent.com/White-Whale-Defi-Platform/migaloo-networks/main/narwhal-2/genesis.json > ~/.migalood/config/genesis.json
 ```
 
 This will replace the genesis file created using `migalood init` command with the genesis file for the testnet.
@@ -201,7 +201,7 @@ migalood tx staking create-validator \
 There are certain files that you need to backup to be able to restore your validator if, for some reason, it damaged or
 lost in some way. Please make a secure backup of the following files located in `~/.migalood/config/`:
 
-* `priv_validator_key.json`
-* `node_key.json`
+- `priv_validator_key.json`
+- `node_key.json`
 
 It is recommended that you encrypt the backup of these files.

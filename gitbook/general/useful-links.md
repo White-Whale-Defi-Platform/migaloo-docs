@@ -11,7 +11,7 @@
 | Supply Details           | [apex.migaloo.zone](https://apex.migaloo.zone/)                                                                                                                              |
 | Repo                     | [Github](https://github.com/White-Whale-Defi-Platform/migaloo-chain)                                                                                                         |
 | Mainnet Explorers        | [kjnodes](https://explorer.kjnodes.com/migaloo), [NodesGuru](https://migaloo.explorers.guru/), [PingPub](https://ping.pub/migaloo), [AtomScan](https://atomscan.com/migaloo) |
-| Testnet                  | [NodesGuru](https://testnet.migaloo.explorers.guru/), [NodeStake](https://explorer.nodestake.top/whitewhale-testnet)                                                         |
+| Testnet                  | [PFC](https://ping.pfc.zone/narwhal-testnet)                                                                                                                                 |
 | Validator Analysis       | [Observatory](https://observatory.zone/migaloo), [Slash Board](https://services.kjnodes.com/mainnet/migaloo/slashboard/), [Smart Stake](https://migaloo.smartstake.io/stats) |
 | Public Nodes             | [cosmos.directory](https://cosmos.directory/migaloo)                                                                                                                         |
 | Portfolio Management     | [Pulsar](https://app.pulsar.finance/portfolio), [Keplr Dashboard](https://wallet.keplr.app/), [Station](https://station.terra.money/)                                        |
@@ -20,7 +20,7 @@
 | IBC Stats                | [MapOfZones](https://mapofzones.com/zones/migaloo-1/overview), [MapOfZone-Chart](https://mapofzones.com/home/migaloo-1/overview?columnKey=ibcVolume&period=24h)              |
 | Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                |
 | Community Made Resources | [TerraEngineer](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                    |
-| Alliance Dashboard       | [Terra](https://alliance-dashboard.terra.money/?selected=migaloo)                                                                                                            |
+| Alliance Dashboard       | [Terra](https://alliance-dashboard.terra.money/?selected=terra), [Migaloo](https://app.migaloo.zone/)                                                                        |
 | Ecosystem page           | [ecosystem.migaloo.zone](https://ecosystem.migaloo.zone/)                                                                                                                    |
 
 ---
@@ -34,6 +34,7 @@
 | Burn Whale Tokens | [Furnace](https://whale.burn.community/)                     |
 | Casino Games      | [Racoon.bet](https://racoon.bet)                             |
 | Bank of Alliance  | [Ginkou](https://ginkou.io/)                                 |
+| DAO               | [DAO DAO](https://daodao.zone/dao/create?chain=migaloo-1)    |
 | Betting (beta)    | [Shark Protocol](https://www.sharkprotocol.bet/)             |
 | NFT Marketplace   | [Necropolis](https://necropolisnft.io/nfts/listed)           |
 | Liquid Staking    | [Eris](https://www.erisprotocol.com/migaloo/amplifier/WHALE) |

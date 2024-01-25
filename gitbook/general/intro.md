@@ -8,5 +8,5 @@ Migaloo is a permission-less, open source network for decentralized interoperabl
 - [Skip MEV](https://skip.money/)
 - IBC 7
 - SDK46
-- Packet Forwarding Middleware (Soon)
-- IBC Hooks (Soon)
+- Packet Forwarding Middleware
+- IBC Hooks
