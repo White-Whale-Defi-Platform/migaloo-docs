@@ -2,6 +2,4 @@
 
 There are few block explorers available for the testnet. You can use them to check the status of your node and transactions.
 
-- [https://explorer.nodestake.top/whitewhale-testnet](https://explorer.nodestake.top/whitewhale-testnet)
-- [https://explorer.silknodes.io/whitewhale/](https://explorer.silknodes.io/whitewhale/)
-- [https://testnet.migaloo.explorers.guru/](https://testnet.migaloo.explorers.guru/)
+- [https://ping.pfc.zone/narwhal-testnet](https://ping.pfc.zone/narwhal-testnet)
