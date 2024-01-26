@@ -6,22 +6,22 @@
 
 <!-- **Chain Info** -->
 
-| Info                     | Link                                                                                                                                                                         |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Supply Details           | [apex.migaloo.zone](https://apex.migaloo.zone/)                                                                                                                              |
-| Repo                     | [Github](https://github.com/White-Whale-Defi-Platform/migaloo-chain)                                                                                                         |
-| Mainnet Explorers        | [kjnodes](https://explorer.kjnodes.com/migaloo), [NodesGuru](https://migaloo.explorers.guru/), [PingPub](https://ping.pub/migaloo), [AtomScan](https://atomscan.com/migaloo) |
-| Testnet                  | [PFC](https://ping.pfc.zone/narwhal-testnet)                                                                                                                                 |
-| Validator Analysis       | [Observatory](https://observatory.zone/migaloo), [Slash Board](https://services.kjnodes.com/mainnet/migaloo/slashboard/), [Smart Stake](https://migaloo.smartstake.io/stats) |
-| Public Nodes             | [cosmos.directory](https://cosmos.directory/migaloo)                                                                                                                         |
-| Portfolio Management     | [Pulsar](https://app.pulsar.finance/portfolio), [Keplr Dashboard](https://wallet.keplr.app/), [Station](https://station.terra.money/)                                        |
-| Bridge                   | [IBC.fun](https://ibc.fun/), [TFM](https://tfm.com/bridge)                                                                                                                   |
-| TVL                      | [DefiLlama](https://defillama.com/chain/Migaloo)                                                                                                                             |
-| IBC Stats                | [MapOfZones](https://mapofzones.com/zones/migaloo-1/overview), [MapOfZone-Chart](https://mapofzones.com/home/migaloo-1/overview?columnKey=ibcVolume&period=24h)              |
-| Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                |
-| Community Made Resources | [TerraEngineer](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                    |
-| Alliance Dashboard       | [Terra](https://alliance-dashboard.terra.money/?selected=terra), [Migaloo](https://app.migaloo.zone/)                                                                        |
-| Ecosystem page           | [ecosystem.migaloo.zone](https://ecosystem.migaloo.zone/)                                                                                                                    |
+| Info                     | Link                                                                                                                                                                                                                  |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Supply Details           | [apex.migaloo.zone](https://apex.migaloo.zone/)                                                                                                                                                                       |
+| Repo                     | [Github](https://github.com/White-Whale-Defi-Platform/migaloo-chain)                                                                                                                                                  |
+| Mainnet Explorers        | [Interbloc](https://inbloc.org/migaloo), [kjnodes](https://explorer.kjnodes.com/migaloo), [NodesGuru](https://migaloo.explorers.guru/), [PingPub](https://ping.pub/migaloo), [AtomScan](https://atomscan.com/migaloo) |
+| Testnet                  | [PFC](https://ping.pfc.zone/narwhal-testnet)                                                                                                                                                                          |
+| Validator Analysis       | [Observatory](https://observatory.zone/migaloo), [Slash Board](https://services.kjnodes.com/mainnet/migaloo/slashboard/), [Smart Stake](https://migaloo.smartstake.io/stats)                                          |
+| Public Nodes             | [cosmos.directory](https://cosmos.directory/migaloo)                                                                                                                                                                  |
+| Portfolio Management     | [Pulsar](https://app.pulsar.finance/portfolio), [Keplr Dashboard](https://wallet.keplr.app/), [Station](https://station.terra.money/)                                                                                 |
+| Bridge                   | [IBC.fun](https://ibc.fun/), [TFM](https://tfm.com/bridge)                                                                                                                                                            |
+| TVL                      | [DefiLlama](https://defillama.com/chain/Migaloo)                                                                                                                                                                      |
+| IBC Stats                | [MapOfZones](https://mapofzones.com/zones/migaloo-1/overview), [MapOfZone-Chart](https://mapofzones.com/home/migaloo-1/overview?columnKey=ibcVolume&period=24h)                                                       |
+| Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                                                         |
+| Community Made Resources | [TerraEngineer](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                                                             |
+| Alliance Dashboard       | [Terra](https://alliance-dashboard.terra.money/?selected=terra), [Migaloo](https://app.migaloo.zone/)                                                                                                                 |
+| Ecosystem page           | [ecosystem.migaloo.zone](https://ecosystem.migaloo.zone/)                                                                                                                                                             |
 
 ---
 
