@@ -8,7 +8,7 @@ Migaloo was the first chain in the Cosmos to integrate the alliance module and e
 The Alliance re-staking module also allows for ecosystem tokens to be staked to the chain, helping to bootstrap Migaloo dApps such as Ginkou (Money Market) and LP tokens from WhiteWhale increasing Liquidity.
 
 - **Home to the White Whale Protocol:**
-WhiteWhale (WW) is an inovative interchain DEX which is Currently Live accross various Cosmos chain. WW was the first DEX to launch on Osmosis (not including Osmosis itself) and paved the way forward in boosting Osmosis' potential in becoming a fully fledged economic zone with multiple dApps powered by WW and the RIDE partners.
+WhiteWhale (WW) is an innovative interchain DEX which is Currently Live accross various Cosmos chain. WW was the first DEX to launch on Osmosis (not including Osmosis itself) and paved the way forward in boosting Osmosis' potential in becoming a fully fledged economic zone with multiple dApps powered by WW and the RIDE partners.
 
 - **Native Token Factory:**
 The Token Factory allows you to create your own native denoms, as recognised by the Cosmos SDK Bank Module. 
@@ -18,7 +18,7 @@ This allows your protocol to issue its own token, without needing to support the
 Skip helps sovereign blockchain protocols supercharge their user experience, interoperability, and value capture with its vertically integrated product suite.
 
 - **IBC 7**
-An interchain bridge allowing safe tranfer of assets accross chain that have Inter Blockchian Communication (IBC) enabled.
+An interchain bridge allowing safe tranfer of assets accross chain that have Inter Blockchain Communication (IBC) enabled.
 
 - **SDK46**
 
