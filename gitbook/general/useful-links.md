@@ -19,7 +19,7 @@
 | TVL                      | [DefiLlama](https://defillama.com/chain/Migaloo)                                                                                                                                                                      |
 | IBC Stats                | [MapOfZones](https://mapofzones.com/zones/migaloo-1/overview), [MapOfZone-Chart](https://mapofzones.com/home/migaloo-1/overview?columnKey=ibcVolume&period=24h)                                                       |
 | Social Media             | [LunarCrush](https://lunarcrush.com/coins/whale6/white-whale)                                                                                                                                                         |
-| Community Made Resources | [TerraEngineer](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                                                             |
+| Community Made Resources | [Deving.Zone](https://deving.zone/en/cosmos/migaloo), [Maslin](https://ecosystem.zone/)                                                                                                                             |
 | Alliance Dashboard       | [Terra](https://alliance-dashboard.terra.money/?selected=terra), [Migaloo](https://app.migaloo.zone/)                                                                                                                 |
 | Ecosystem page           | [ecosystem.migaloo.zone](https://ecosystem.migaloo.zone/)                                                                                                                                                             |
 
@@ -29,13 +29,14 @@
 
 ## dApps
 
-| Info              | Link                                                         |
+| Info              | Link                                                                                                  |
 | ----------------- | ------------------------------------------------------------ |
-| Burn Whale Tokens | [Furnace](https://whale.burn.community/)                     |
-| Casino Games      | [Racoon.bet](https://racoon.bet)                             |
-| Bank of Alliance  | [Ginkou](https://ginkou.io/)                                 |
-| DAO               | [DAO DAO](https://daodao.zone/dao/create?chain=migaloo-1)    |
-| Betting (beta)    | [Shark Protocol](https://www.sharkprotocol.bet/)             |
+| DEX               | [WhiteWhale](https://app.whitewhale.money/migaloo/dashboard)                                          |
+| The Furnace | [Burn $WHALE](https://whale.burn.community/), [Burn $GUPPY](https://guppy.burn.community/)                    |
+| Casino Games      | [Racoon.bet](https://racoon.bet)                                                                      |
+| Bank of Alliance  | [Ginkou](https://ginkou.io/)                                                                          |
+| DAO Tooling       | [DAO DAO](https://daodao.zone/dao/create?chain=migaloo-1), [Enterprise DAO](https://www.enterprise.money/)   |
+| Betting           | [Shark Protocol](https://www.sharkprotocol.bet/)             |
 | NFT Marketplace   | [Necropolis](https://necropolisnft.io/nfts/listed)           |
 | Liquid Staking    | [Eris](https://www.erisprotocol.com/migaloo/amplifier/WHALE) |
 | Liquid Staking    | [Backbone Labs](https://migaloo.gravedigger.zone/)           |
@@ -53,8 +54,8 @@
 
 | Info                                                                        | Link                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Stake                                                                       | [StakeBar](https://stakebar.io/portfolio) (Keplr), [Kujira Pod](https://pod.kujira.app/migaloo-1) (Station), [Migaloo](https://app.migaloo.zone/) (Station), [Station](https://station.terra.money/stake) (Station), [PingPub](https://ping.pub/migaloo/staking) (Keplr) |
-| Alliance Stake (_ex. Stake bLuna on Migaloo to earn Whale_)                 | [Migaloo](https://app.migaloo.zone/) (Station), [Eris](https://www.erisprotocol.com/migaloo/amp-alliance) (Station, Keplr)                                                                                                                                               |
+| Stake                                                                       | [StakeBar](https://stakebar.io/portfolio) (Keplr), [Kujira Pod](https://pod.kujira.app/migaloo-1) (Station), [Migaloo](https://app.migaloo.zone/) (Keplr), [Station](https://station.terra.money/stake) (Station),[LEAP Wallet](https://cosmos.leapwallet.io/transact/stake/plain?chain=migaloo), [PingPub](https://ping.pub/migaloo/staking) (Keplr) |
+| Alliance Stake (_ex. Stake bLuna on Migaloo to earn Whale_)                 | [Migaloo](https://app.migaloo.zone/) (Station), [Eris](https://www.erisprotocol.com/migaloo/amp-alliance) (Station, Keplr), [Sation Dashboard](https://dashboard.station.money/)                                                                                                                                               |
 | Liquid Staking Providers                                                    | [Eris](https://www.erisprotocol.com/migaloo/amplifier) (Station, Keplr), [BackBoneLabs](https://migaloo.gravedigger.zone/) (Station, Keplr)                                                                                                                              |
 | Autocompound Staking (_Pick your validator to autocompound to_ )            | [Yieldmos](https://www.yieldmos.com/strategies/whale-staking-rewards) (Keplr), [reStake](https://restake.app/migaloo) (Keplr)                                                                                                                                            |
 | Bonding (_Bonding your whale LSD let's you earn fees from satelite market_) | [White Whale App](https://app.whitewhale.money/terra/dashboard)                                                                                                                                                                                                          |
@@ -99,7 +100,7 @@
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Migaloo Chain | [Migaloo](https://inbloc.org/migaloo/governance)                                                                     | [Spacehall](https://spacehall.app/community/migaloo)  |
 | Sail Dao      | [Dao Dao - Osmosis](https://daodao.zone/dao/osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h/home)    | [Spacehall](https://spacehall.app/community/sail-dao) |
-| Ash Dao       | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1e0kvgag8rzgj3tpz8tn9new83zv8fyv9yc2jxtnmv02hc3pn6jjswn3sc4/home) | NA                                                    |
+| Ash Dao       | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1e0kvgag8rzgj3tpz8tn9new83zv8fyv9yc2jxtnmv02hc3pn6jjswn3sc4/home), [Enterprise DAO](https://dao.enterprise.money/dao?address=terra1ptllgmw6s84ku8qgfj7fc50n5a6585d464h98n3xle0x2lrsf2ws6x3ud0) | NA                                                    |
 | Guppy Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1mzxe5q5ry0kkajvf4mrytdvxfe66ep3jsx92fav6aef0xe2ckupqz97uce/home) | NA                                                    |
 | OPHIR Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo10gj7p9tz9ncjk7fm7tmlax7q6pyljfrawjxjfs09a7e7g933sj0q7yeadc/home) | NA                                                    |
 
