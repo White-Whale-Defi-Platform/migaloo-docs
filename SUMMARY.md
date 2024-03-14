@@ -16,6 +16,8 @@
   - [🛠️ Installing migalood](./gitbook/developers/migalood.md)
   - [✅ Useful CLI commands](./gitbook/developers/cli_commands.md)
   - [📑 Creating Vesting accounts on demand](./gitbook/developers/vesting.md)
+- [🗄️ Indexers](./gitbook/developers/indexers/overview.md)
+  - [SubQuery](./gitbook/developers/indexers/subquery.md)
 
 ### Validators
 
