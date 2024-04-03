@@ -36,7 +36,7 @@
     * [Relayer Grants](validate/run-a-relayer/relayer-grants.md)
     * [Go Relayer](validate/run-a-relayer/go-relayer.md)
     * [Hermes Relayer](validate/run-a-relayer/hermes-relayer.md)
-* [Branded Assets](branded-assets/README.md)
+* [Branded Assets](branded-assets.md)
   * [Colour](branded-assets/colour.md)
   * [Logo](branded-assets/logo.md)
   * [Font](branded-assets/font.md)

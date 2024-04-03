@@ -14,13 +14,13 @@ If you have chosen a different operating system, you will need to modify your co
 
 {% tabs %}
 {% tab title="Update the Local Package" %}
-```markdown
+```bash
 sudo apt-get update && sudo apt upgrade -y
 ```
 {% endtab %}
 
 {% tab title="Install Toolchain" %}
-```markdown
+```bash
 sudo apt-get install make build-essential gcc git jq chrony -y
 ```
 {% endtab %}
@@ -32,14 +32,14 @@ Follow the instructions [here](https://golang.org/doc/install) to install Go. Pl
 
 For an Ubuntu LTS, you can probably use:
 
-```markdown
+```bash
 wget https://golang.org/dl/go1.20.linux-amd64.tar.gz
 sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.linux-amd64.tar.gz
 ```
 
 Unless you want to configure in a non-standard way, then set these in the `.profile` in the user's home (i.e. `~/`) folder.
 
-```markdown
+```bash
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/go
 export GO111MODULE=on
@@ -48,13 +48,13 @@ export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin
 
 After updating your `~/.profile` you will need to source it:
 
-```markdown
+```bash
 source ~/.profile
 ```
 
 ### Build Migaloo from source <a href="#build-migaloo-from-source" id="build-migaloo-from-source"></a>
 
-```markdown
+```bash
 git clone git@github.com:White-Whale-Defi-Platform/migaloo-chain.git
 cd migaloo-chain
 git fetch
@@ -65,14 +65,14 @@ Migaloo's current Mainnet tag can be found here: [https://github.com/White-Whale
 
 ### Once you're on the correct tag, you can build:
 
-```markdown
+```bash
 # in migaloo-chain directory
 make install
 ```
 
 ### To confirm that the installation has succeeded, you can run:
 
-```markdown
+```bash
 which migalood
 # Should return similar to:
 # /home/<username>/go/bin/migalood

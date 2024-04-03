@@ -26,6 +26,6 @@ layout:
 [validate](validate/)
 {% endcontent-ref %}
 
-{% content-ref url="branded-assets/" %}
-[branded-assets](branded-assets/)
+{% content-ref url="branded-assets.md" %}
+[branded-assets.md](branded-assets.md)
 {% endcontent-ref %}

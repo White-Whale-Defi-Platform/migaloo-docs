@@ -18,7 +18,7 @@ description: Standard colours used across Migaloo and WhiteWhale
 {% endtab %}
 
 {% tab title="Shade Hex" %}
-```
+```markdown
 #1A1A1A
 #000000
 #FFFFFF
