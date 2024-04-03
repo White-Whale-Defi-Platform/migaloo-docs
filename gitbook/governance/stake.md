@@ -1,3 +1,0 @@
-# Stake
-
-Coming soon™.
