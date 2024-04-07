@@ -24,3 +24,7 @@ Observatory Zone
 {% embed url="https://inbloc.org/migaloo" %}
 Interblock - Block Explorer
 {% endembed %}
+
+### Learn more about Migaloo Consensus:
+
+{% embed url="https://medium.com/@WhaleyDAO/exploring-the-engine-room-of-migaloo-2e92acdf4413" %}
