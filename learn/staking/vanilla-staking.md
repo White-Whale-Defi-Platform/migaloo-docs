@@ -8,7 +8,7 @@ description: >-
 
 ## Staking
 
-The Migaloo Zone consists of 50 active [validators.md](validators.md "mention") who work to participate in consensus, validate transactions and produce the chains 'blocks'. Validators are assigned a rank based on the number of tokens delegated to them, the higher a validator's rank the more WHALE has been delegated to them and thus the more voting power they have as 1 WHALE = 1 vote.&#x20;
+The Migaloo Zone consists of 50 active [validators](validators/ "mention") who work to participate in consensus, validate transactions and produce the chains 'blocks'. Validators are assigned a rank based on the number of tokens delegated to them, the higher a validator's rank the more WHALE has been delegated to them and thus the more voting power they have as 1 WHALE = 1 vote.&#x20;
 
 ## Delegating
 
