@@ -1,5 +1,6 @@
 # Modules
 
+* Alliance
 * Auth
 * Authz
 * Bank
