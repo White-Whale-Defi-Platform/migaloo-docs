@@ -4,7 +4,7 @@
 * [Learn](learn/README.md)
   * [Welcome to Migaloo](learn/welcome-to-migaloo.md)
   * [Migaloo v4](learn/migaloo-v4/README.md)
-    * [Migaloo Tech](learn/migaloo-v4/migaloo-tech.md)
+    * [Migaloo Zone Tech](learn/migaloo-v4/migaloo-zone-tech.md)
     * [Modules](learn/migaloo-v4/modules.md)
     * [Chain Fees](learn/migaloo-v4/chain-fees.md)
   * [Staking](learn/staking/README.md)
