@@ -20,6 +20,7 @@
   * [Tutorials](learn/tutorials/README.md)
     * [Bridge Assets](learn/tutorials/bridge-assets.md)
     * [Stake Assets](learn/tutorials/stake-assets.md)
+  * [FAQs](learn/faqs.md)
   * [Asset Denoms](learn/asset-denoms.md)
 * [Develop](develop/README.md)
   * [Contact the Core Team](develop/contact-the-core-team.md)

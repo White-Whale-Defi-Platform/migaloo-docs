@@ -18,6 +18,6 @@ As well as being an industry leader in the ReStaking space, Migaloo also runs th
 
 [Discord](https://discord.gg/bJE7hxJ6sE)
 
-Telegram
+[Telegram](http://t.me/whitewhaleofficial)
 
-X (Twitter)
+X (Twitter): [Migaloo](https://twitter.com/Migaloo\_Zone) | [WhiteWhale](https://twitter.com/WhiteWhaleDefi)

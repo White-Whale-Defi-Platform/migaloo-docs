@@ -1,5 +1,9 @@
 # Bridge Assets
 
+{% hint style="danger" %}
+When bridging IBC assets must ALWAYS  route through their home chain. For example bridging WHALE from Osmosis to Terra would Require first IBCing WHALE to Migaloo first, then IBC to Terra. Bridges such as TFM and IBC FUN _should_ automatically route correctly for you, but manual IBC sends using wallets will need routing manually.
+{% endhint %}
+
 ### Station Wallet:
 
 {% embed url="https://docs.station.money/using/send" %}
@@ -18,4 +22,4 @@
 
 ### IBC FUN
 
-ComingSoon™
+{% embed url="https://api-docs.skip.money/docs/getting-started" %}
