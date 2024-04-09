@@ -6,6 +6,8 @@
 Support Alliance ReStaking and ecosystem token ReStaking
 {% endhint %}
 
+[https://app.migaloo.zone/](https://app.migaloo.zone/)
+
 comingSoon™
 
 ### Station Wallet
@@ -37,6 +39,8 @@ No support for Alliance ReStaking
 {% hint style="warning" %}
 No support for Alliance ReStaking
 {% endhint %}
+
+[https://pod.kujira.network/migaloo-1](https://pod.kujira.network/migaloo-1)
 
 comingSoon™
 
