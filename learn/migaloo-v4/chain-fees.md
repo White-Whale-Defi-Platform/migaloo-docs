@@ -22,6 +22,8 @@ Each validator has the ability to set their own minimum gas fee, although valida
 
 The launch of Migaloo v4 introduced a burn mechanism to the chain. The burn mechanism has the ability to burn the chain transaction fees. The amount of the transaction fee that is burned can be voted on and adjusted via a governance proposal. The burn amount can be set anywhere between 0% (no WHALE from the transaction is burned) and 100% (all WHALE from the transaction is burned.
 
+At the moment 50% of Migaloo Zones transaction fees are burned. The remaining fees are distributed as normal.
+
 ## Community Tax
 
 
