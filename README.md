@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -13,6 +13,8 @@ layout:
 ---
 
 # Migaloo Zone
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="learn/" %}
 [learn](learn/)
