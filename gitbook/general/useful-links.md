@@ -63,6 +63,23 @@
 
 <br />
 
+## ReStaking
+
+<!-- **ReStaking** -->
+
+| Info                      | Link                                                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ReStaking Interface       | [app.migaloo.zone](https://app.migaloo.zone/)                                                                      |
+| ReStake DAO               | [DAO DAO](https://daodao.zone/dao/migaloo1pxuqr7je9h7slchdsgz5ufc3kklrevyfnxmq0dkjru5k6e6mdm2sw23hfz/home)         |
+| Gauge System              | [Eris](https://next.erisprotocol.com/migaloo/restake-gauges)                                                       |
+| Governance Voting Example | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A39) |
+| $RSTK Staking Example     | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A34) |
+| Gauge Voting Example      | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A40) |
+
+---
+
+<br />
+
 ## Price, Trading, Charts
 
 | Info           | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
