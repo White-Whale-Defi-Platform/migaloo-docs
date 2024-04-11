@@ -15,15 +15,7 @@ Migaloo has leveraged the Alliance module to allow not only the ReStaking of oth
 
 Migaloo Alliance assets are decided by governance proposals. Any IBC assets can be listed via this process assuming the the voters (Validators and Stakers) agree to the proposal. The proposals to list an Alliance asset should provide information such as the Token Denom, "Take Rate" and "Reward Rate". See examples: [#1](https://dashboard.station.money/proposal/migaloo-1/23), [#2](https://dashboard.station.money/proposal/migaloo-1/28), [#3](https://dashboard.station.money/proposal/phoenix-1/4802).
 
-## Ecosystem Accelerator
-
-The Migaloo Foundation proposed to whitelist a Virtual Alliance Token (VT) on Migaloo.\
-The  VT has a reward weight of 0.05, meaning the 5% of Migaloo inflation. This VT allows the Foundation to support vital ecosystem areas without generating extra token inflation and without governance props slowing down the process and putting extra work on Validators and Voters. The Community can vote to remove this token from the Alliance Module at any time.\
-**Ownership & Control:** The Migaloo Foundation retains control over the smart contract and the gauge, ensuring thoughtful testing and prompt decision-making. Eventually, the Foundation will provide a path for increased decentralization.
-
 ## Liquidity
-
-> Liquidity, Liquidity, Liquidity
 
 Liquidity is a key part of any DeFi ecosystem, that's why Migaloo Zone has chosen to adopt the unique strategy of allowing liquidity pool tokens (LP) to be staked to the chain and earn a portion of Migaloo's staking rewards. This tactic bolsters the liquidity of the chain's flagship application, WhiteWhale (WW).
 

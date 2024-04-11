@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Staking
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Vanilla Staking</td><td>Learn what staking is all about and how it helps to secure the chain</td><td><a href="vanilla-staking.md">vanilla-staking.md</a></td></tr><tr><td><strong>ReStaking</strong></td><td>Read about Migaloo's groundbreaking ReStake technology</td><td><a href="restaking-alliance/">restaking-alliance</a></td></tr></tbody></table>
