@@ -116,8 +116,8 @@
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | Migaloo Chain | [Migaloo](https://inbloc.org/migaloo/governance)                                                                     | [Spacehall](https://spacehall.app/community/migaloo)  |
 | Sail Dao      | [Dao Dao - Osmosis](https://daodao.zone/dao/osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h/home)    | [Spacehall](https://spacehall.app/community/sail-dao) |
-| Ash Dao       | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1e0kvgag8rzgj3tpz8tn9new83zv8fyv9yc2jxtnmv02hc3pn6jjswn3sc4/home) | NA                                                    |
-| Guppy Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1mzxe5q5ry0kkajvf4mrytdvxfe66ep3jsx92fav6aef0xe2ckupqz97uce/home) | NA                                                    |
+| Ash Dao       | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1e0kvgag8rzgj3tpz8tn9new83zv8fyv9yc2jxtnmv02hc3pn6jjswn3sc4/home) | [Discord](https://discord.com/invite/PEJzbV25mX)      |
+| Guppy Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1mzxe5q5ry0kkajvf4mrytdvxfe66ep3jsx92fav6aef0xe2ckupqz97uce/home) | [Public Telegram](https://t.me/+QooIWNEfR6c3MmM5)     |
 | OPHIR Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo10gj7p9tz9ncjk7fm7tmlax7q6pyljfrawjxjfs09a7e7g933sj0q7yeadc/home) | Private Founders TG Chat                              |
 | ReStake DAO   | [DAO DAO](https://daodao.zone/dao/migaloo1pxuqr7je9h7slchdsgz5ufc3kklrevyfnxmq0dkjru5k6e6mdm2sw23hfz/home)           | NA                                                    |
 
