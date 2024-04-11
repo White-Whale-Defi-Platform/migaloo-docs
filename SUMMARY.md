@@ -11,6 +11,7 @@
     * [Vanilla Staking](learn/staking/vanilla-staking.md)
     * [ReStaking (Alliance)](learn/staking/restaking-alliance/README.md)
       * [ReStake DAO](learn/staking/restaking-alliance/restake-dao.md)
+      * [Gauge System](learn/staking/restaking-alliance/gauge-system.md)
     * [Liquid Staking](learn/staking/liquid-staking.md)
     * [Validators](learn/staking/validators/README.md)
       * [Choose a Validator](learn/staking/validators/choose-a-validator.md)
