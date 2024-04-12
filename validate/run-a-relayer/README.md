@@ -1,5 +1,7 @@
 # Run a Relayer
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Relayer Grants</strong></td><td>Learn about the Migaloo Foundations Reylayer Grant Program</td><td><a href="relayer-grants.md">relayer-grants.md</a></td></tr><tr><td><strong>Go Relayer</strong></td><td>Learn how to set up a Go Relayer</td><td><a href="go-relayer.md">go-relayer.md</a></td></tr><tr><td><strong>Hermes Relayer</strong></td><td>Learn how to set up a Hermes Relayer</td><td><a href="hermes-relayer.md">hermes-relayer.md</a></td></tr></tbody></table>
+
 IBC channels:
 
 | Network   | Channel   |

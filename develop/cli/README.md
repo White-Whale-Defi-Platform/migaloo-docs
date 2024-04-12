@@ -1,2 +1,3 @@
 # CLI
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Installing migalood</strong></td><td>Learn how to install migalood to your environment</td><td><a href="installing-migalood.md">installing-migalood.md</a></td></tr><tr><td><strong>Useful CLI Commands</strong></td><td>Become familiar with some useful CLI commands</td><td><a href="useful-cli-commands.md">useful-cli-commands.md</a></td></tr><tr><td><strong>Create Vesting Accounts</strong></td><td>Create chain level vesting account on Migaloo</td><td><a href="creating-vesting-accounts-on-demand.md">creating-vesting-accounts-on-demand.md</a></td></tr></tbody></table>

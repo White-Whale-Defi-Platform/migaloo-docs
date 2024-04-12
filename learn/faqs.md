@@ -1,5 +1,5 @@
 ---
-description: ComingSoon™
+description: Frequently asked questions about Migaloo, Cosmos and Crypto.
 ---
 
 # FAQs

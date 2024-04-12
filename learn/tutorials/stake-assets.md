@@ -8,7 +8,7 @@ Support Alliance ReStaking and ecosystem token ReStaking
 
 [https://app.migaloo.zone/](https://app.migaloo.zone/)
 
-comingSoon™
+Tutorial comingSoon™
 
 ### Station Wallet
 
