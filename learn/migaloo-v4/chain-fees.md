@@ -26,5 +26,5 @@ At the moment 50% of Migaloo Zones transaction fees are burned. The remaining fe
 
 ## Community Tax
 
-
+Migaloo Zone has a "Community Tax". This is a tax on the revenue of the chain. A 10% tax is applied and sent to the community pool for Validators and Stakers to use. As Migaloo allows ReStaking of various assets the community pool is constantly being diversified with a wide range of assets from wBTC to OSMO LSTs.
 
