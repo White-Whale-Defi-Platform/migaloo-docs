@@ -78,7 +78,7 @@
 | Sail Dao      | [Dao Dao - Osmosis](https://daodao.zone/dao/osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h/home)                                                                                                                                 | [Spacehall](https://spacehall.app/community/sail-dao) |
 | Ash Dao       | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1e0kvgag8rzgj3tpz8tn9new83zv8fyv9yc2jxtnmv02hc3pn6jjswn3sc4/home), [Enterprise DAO](https://dao.enterprise.money/dao?address=terra1ptllgmw6s84ku8qgfj7fc50n5a6585d464h98n3xle0x2lrsf2ws6x3ud0) | [Discord](https://discord.gg/PEJzbV25mX)              |
 | Guppy Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo1mzxe5q5ry0kkajvf4mrytdvxfe66ep3jsx92fav6aef0xe2ckupqz97uce/home)                                                                                                                              | [Discord](https://discord.gg/PEJzbV25mX)              |
-| OPHIR Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo10gj7p9tz9ncjk7fm7tmlax7q6pyljfrawjxjfs09a7e7g933sj0q7yeadc/home)                                                                                                                              | NA                                                    |
+| OPHIR Dao     | [Dao Dao - Migaloo](https://daodao.zone/dao/migaloo10gj7p9tz9ncjk7fm7tmlax7q6pyljfrawjxjfs09a7e7g933sj0q7yeadc/home)                                                                                                                              | [Discord](https://discord.gg/c4Msv5kT4r)              |
 
 ## Learn
 
