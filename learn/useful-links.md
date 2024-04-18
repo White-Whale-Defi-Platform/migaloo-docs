@@ -47,6 +47,23 @@
 | Autocompound Staking (_Pick your validator to autocompound to_ )              | [Yieldmos](https://www.yieldmos.com/strategies/whale-staking-rewards) (Keplr), [reStake](https://restake.app/migaloo) (Keplr)                                                                                                                                                                                                                         |
 | Bonding (_Bonding your whale LST let's you earn fees from satellite markets_) | [White Whale App](https://app.whitewhale.money/terra/dashboard)                                                                                                                                                                                                                                                                                       |
 
+## ReStaking
+
+<!-- **ReStaking** -->
+
+| Info                      | Link                                                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ReStaking Interface       | [app.migaloo.zone](https://app.migaloo.zone/)                                                                      |
+| ReStake DAO               | [DAO DAO](https://daodao.zone/dao/migaloo1pxuqr7je9h7slchdsgz5ufc3kklrevyfnxmq0dkjru5k6e6mdm2sw23hfz/home)         |
+| Gauge System              | [Eris](https://next.erisprotocol.com/migaloo/restake-gauges)                                                       |
+| Governance Voting Example | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A39) |
+| $RSTK Staking Example     | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A34) |
+| Gauge Voting Example      | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A40) |
+
+---
+
+<br />
+
 ## Price, Trading, Charts
 
 
