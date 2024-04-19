@@ -1,43 +1,49 @@
 # Table of contents
 
-- [👋 Welcome](./README.md)
-- [📜 Introduction](./gitbook/general/intro.md)
-- [🔗 Useful Links](./gitbook/general/useful-links.md)
-- [🛠️ Build with Us](./gitbook/general/build.md)
-- [🐋 Community DAO](./gitbook/general/community-dao.md)
-
-### Learn
-
-- [👜 Wallets](./gitbook/learn/wallets.md)
-
-### Developers
-
-- [🖥️ CLI (Command-Line Interface)](./gitbook/developers/cli.md)
-  - [🛠️ Installing migalood](./gitbook/developers/migalood.md)
-  - [✅ Useful CLI commands](./gitbook/developers/cli_commands.md)
-  - [📑 Creating Vesting accounts on demand](./gitbook/developers/vesting.md)
-
-### Validators
-
-- [🐋 Run a Node](./gitbook/validators/node.md)
-- [🕶 Setup Cosmovisor](./gitbook/validators/cosmovisor.md)
-- [🌐 Join the Mainnet](./gitbook/validators/mainnet.md)
-  - [💫 Sync with State-Sync](./gitbook/validators/state_sync.md)
-  - [🤖 Mainnet Block Explorers](./gitbook/validators/mainnet_explorers.md)
-- [🏟️ Join the Testnet](./gitbook/validators/testnet.md)
-  - [🤖 Testnet Block Explorers](./gitbook/validators/testnet_explorers.md)
-- [🌉 Running a Relayer](./gitbook/validators/relayer.md)
-  - [🌉 Go Relayer](./gitbook/validators/go_relayer.md)
-  - [🌉 Hermes Relayer](./gitbook/validators/hermes_relayer.md)
-
-### Governance
-
-- [🥩 Stake](./gitbook/governance/stake.md)
-- [🗳️ Vote](./gitbook/governance/vote.md)
-- [📝 Submit a Governance Proposal](./gitbook/governance/submit_proposal.md)
-
-### Brand Assets
-
-- [🎨 Colors](./gitbook/brand-assets/colors.md)
-- [🐳 Logo Options](./gitbook/brand-assets/logos.md)
-- [🖌 Fonts](./gitbook/brand-assets/fonts.md)
+* [Migaloo Zone](README.md)
+* [Learn](learn/README.md)
+  * [Welcome to Migaloo](learn/welcome-to-migaloo.md)
+  * [Migaloo v4](learn/migaloo-v4/README.md)
+    * [Migaloo Zone Tech](learn/migaloo-v4/migaloo-zone-tech.md)
+    * [Modules](learn/migaloo-v4/modules.md)
+    * [Chain Fees](learn/migaloo-v4/chain-fees.md)
+  * [Staking](learn/staking/README.md)
+    * [Vanilla Staking](learn/staking/vanilla-staking.md)
+    * [ReStaking (Alliance)](learn/staking/restaking-alliance/README.md)
+      * [ReStake DAO](learn/staking/restaking-alliance/restake-dao.md)
+      * [Gauge System](learn/staking/restaking-alliance/gauge-system.md)
+    * [Liquid Staking](learn/staking/liquid-staking.md)
+    * [Validators](learn/staking/validators/README.md)
+      * [Choose a Validator](learn/staking/validators/choose-a-validator.md)
+      * [Deeper Concepts](learn/staking/validators/deeper-concepts.md)
+  * [Governance](learn/governance.md)
+  * [Useful Links](learn/useful-links.md)
+  * [Tutorials](learn/tutorials/README.md)
+    * [Bridge Assets](learn/tutorials/bridge-assets.md)
+    * [Stake Assets](learn/tutorials/stake-assets.md)
+  * [FAQs](learn/faqs.md)
+  * [Asset Denoms](learn/asset-denoms.md)
+* [Develop](develop/README.md)
+  * [Contact the Core Team](develop/contact-the-core-team.md)
+  * [RIDE Program](develop/ride-program.md)
+  * [SAIL Program](develop/sail-program.md)
+  * [CLI](develop/cli/README.md)
+    * [Installing migalood](develop/cli/installing-migalood.md)
+    * [Useful CLI commands](develop/cli/useful-cli-commands.md)
+    * [Creating Vesting accounts on demand](develop/cli/creating-vesting-accounts-on-demand.md)
+* [Validate](validate/README.md)
+  * [Foundation Delegation Program](validate/foundation-delegation-program.md)
+  * [Run a Node](validate/run-a-node.md)
+  * [Setting up Cosmovisor](validate/setting-up-cosmovisor.md)
+  * [Join the Mainnet](validate/join-the-mainnet/README.md)
+    * [Sync with State-Sync](validate/join-the-mainnet/sync-with-state-sync.md)
+    * [Block Explorers](validate/join-the-mainnet/block-explorers.md)
+  * [Join the Testnet](validate/join-the-testnet.md)
+  * [Run a Relayer](validate/run-a-relayer/README.md)
+    * [Relayer Grants](validate/run-a-relayer/relayer-grants.md)
+    * [Go Relayer](validate/run-a-relayer/go-relayer.md)
+    * [Hermes Relayer](validate/run-a-relayer/hermes-relayer.md)
+* [Branded Assets](branded-assets.md)
+  * [Colour](branded-assets/colour.md)
+  * [Logo](branded-assets/logo.md)
+  * [Font](branded-assets/font.md)

@@ -1,3 +1,0 @@
-# Hermes Relayer
-
-Coming soon™.

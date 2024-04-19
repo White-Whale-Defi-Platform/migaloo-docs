@@ -1,25 +1,19 @@
-![Migaloo Zone](./.gitbook/assets/migaloo-banner.webp)
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
 
-[![Twitter handle][]][Twitter badge]
-[![Discord badge][]][Discord invite]
+# Migaloo Zone
 
-[Discord invite]: https://discord.com/invite/tSxyyCWgYX
-[Discord badge]: https://img.shields.io/discord/908044702794801233
-[Twitter handle]: https://img.shields.io/twitter/follow/Migaloo_Zone.svg?style=social&label=Follow
-[Twitter badge]: https://twitter.com/intent/follow?screen_name=Migaloo_Zone
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-# Migaloo Docs
-This repository contains information about the permissionless Migaloo Zone.
-
-## Resources
-1. [Website](https://migaloo.zone/)
-2. [Tokenomics]() - Coming soon
-3. [Discord](https://discord.com/invite/tSxyyCWgYX)
-4. [Twitter](https://twitter.com/Migaloo_Zone)
-
-
-## Contributing
-
-[Code of Conduct](./docs/CODE_OF_CONDUCT.md)
-
-[License](./LICENSE)
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Learn more about Migaloo and how it works</td><td><a href=".gitbook/assets/Mig_WHALE.jpg">Mig_WHALE.jpg</a></td><td></td><td><a href="learn/">learn</a></td></tr><tr><td>Develop on Migaloo alongside other experienced teams.</td><td><a href=".gitbook/assets/Develop.jpg">Develop.jpg</a></td><td></td><td><a href="develop/">develop</a></td></tr><tr><td>Secure Migaloo Zone and gain access to a powerful community</td><td><a href=".gitbook/assets/Validate.jpg">Validate.jpg</a></td><td></td><td><a href="validate/">validate</a></td></tr></tbody></table>
