@@ -37,8 +37,6 @@
 
 ## Staking
 
-
-
 | Info                                                                          | Link                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Stake                                                                         | [StakeBar](https://stakebar.io/portfolio) (Keplr), [Kujira Pod](https://pod.kujira.app/migaloo-1) (Station), [Migaloo](https://app.migaloo.zone/) (Keplr), [Station](https://station.terra.money/stake) (Station),[LEAP Wallet](https://cosmos.leapwallet.io/transact/stake/plain?chain=migaloo), [PingPub](https://ping.pub/migaloo/staking) (Keplr) |
@@ -49,8 +47,6 @@
 
 ## ReStaking
 
-<!-- **ReStaking** -->
-
 | Info                      | Link                                                                                                               |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | ReStaking Interface       | [app.migaloo.zone](https://app.migaloo.zone/)                                                                      |
@@ -60,18 +56,17 @@
 | $RSTK Staking Example     | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A34) |
 | Gauge Voting Example      | [DAODAO](https://daodao.zone/dao/migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7/proposals/A40) |
 
----
+***
 
-<br />
+\
+
 
 ## Price, Trading, Charts
-
-
 
 | Info        | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Prices      | [Coingecko](https://www.coingecko.com/en/coins/white-whale), [CoinMarketCap](https://coinmarketcap.com/currencies/white-whale/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Trade Whale | <p><a href="https://coinhall.org/migaloo/migaloo1xv4ql6t6r8zawlqn2tyxqsrvjpmjfm6kvdfvytaueqe3qvcwyr7shtx0hj">Migaloo</a>, <br><a href="https://app.osmosis.zone/pool/960">Osmosis</a>, <br><a href="https://app.osmosis.zone/pool/1318">Osmosis Concentrated Liquidity</a>,</p><p><a href="https://app.whitewhale.money/terra/swap?from=axlUSDC&#x26;to=WHALE">Terra</a>, </p><p><a href="https://fin.kujira.app/trade/kujira1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3sl8nek6?q=usk">Kujira </a>(FIN), <br><a href="https://mantaswap.app/">Kujira</a> (MantaSwap),<br> <a href="https://helixapp.com/spot/whale-usdt">Injective</a> (Helix)</p>                                           |
+| Trade Whale | <p><a href="https://coinhall.org/migaloo/migaloo1xv4ql6t6r8zawlqn2tyxqsrvjpmjfm6kvdfvytaueqe3qvcwyr7shtx0hj">Migaloo</a>,<br><a href="https://app.osmosis.zone/pool/960">Osmosis</a>,<br><a href="https://app.osmosis.zone/pool/1318">Osmosis Concentrated Liquidity</a>,</p><p><a href="https://app.whitewhale.money/terra/swap?from=axlUSDC&#x26;to=WHALE">Terra</a>,</p><p><a href="https://fin.kujira.app/trade/kujira1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3sl8nek6?q=usk">Kujira </a>(FIN),<br><a href="https://mantaswap.app/">Kujira</a> (MantaSwap),<br><a href="https://helixapp.com/spot/whale-usdt">Injective</a> (Helix)</p>                                                |
 | Charts      | [info.osmosis](https://info.osmosis.zone/token/WHALE), [Dex Screener](https://dexscreener.com/osmosis/960), [Osmosis Pro](https://pro.osmosis.zone/osmosis/trade/analytics/pairs/osmo16jjk0wkr7kjdhk69zpw03qqr0vd69kh5n4j7x8kx7v4awnmjrxmq3xhcv9?from=uosmo\&to=ibc%2F498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4\&market=Osmosis), [Coinhall](https://coinhall.org/terra/terra1qdu4g5zxxtmwsd95v8vjslq5874nkcull7ejycm0gy2v7p5qc67qenkf8t), [TFM](https://tfm.com/terra2/trade/analytics/tokens/ibc%2F36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB?from=uluna\&to=ibc%2FB3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4\&market=Astroport) |
 
 ## White Whale Protocol:
