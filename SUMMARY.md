@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Migaloo Zone](README.md)
+* [👋 Migaloo Zone](README.md)
 * [Learn](learn/README.md)
   * [Welcome to Migaloo](learn/welcome-to-migaloo.md)
   * [Migaloo v4](learn/migaloo-v4/README.md)
@@ -12,6 +12,7 @@
     * [ReStaking (Alliance)](learn/staking/restaking-alliance/README.md)
       * [ReStake DAO](learn/staking/restaking-alliance/restake-dao.md)
       * [Gauge System](learn/staking/restaking-alliance/gauge-system.md)
+      * [Bribe Markets](learn/staking/restaking-alliance/bribe-markets.md)
     * [Liquid Staking](learn/staking/liquid-staking.md)
     * [Validators](learn/staking/validators/README.md)
       * [Choose a Validator](learn/staking/validators/choose-a-validator.md)
