@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Migaloo Zone](README.md)
+* [👋 Migaloo Zone](README.md)
 * [Learn](learn/README.md)
   * [Welcome to Migaloo](learn/welcome-to-migaloo.md)
   * [Migaloo v4](learn/migaloo-v4/README.md)
@@ -12,6 +12,7 @@
     * [ReStaking (Alliance)](learn/staking/restaking-alliance/README.md)
       * [ReStake DAO](learn/staking/restaking-alliance/restake-dao.md)
       * [Gauge System](learn/staking/restaking-alliance/gauge-system.md)
+      * [Bribe Markets](learn/staking/restaking-alliance/bribe-markets.md)
     * [Liquid Staking](learn/staking/liquid-staking.md)
     * [Validators](learn/staking/validators/README.md)
       * [Choose a Validator](learn/staking/validators/choose-a-validator.md)
@@ -43,7 +44,7 @@
     * [Relayer Grants](validate/run-a-relayer/relayer-grants.md)
     * [Go Relayer](validate/run-a-relayer/go-relayer.md)
     * [Hermes Relayer](validate/run-a-relayer/hermes-relayer.md)
-* [Branded Assets](branded-assets.md)
+* [Branded Assets](branded-assets/README.md)
   * [Colour](branded-assets/colour.md)
   * [Logo](branded-assets/logo.md)
   * [Font](branded-assets/font.md)
