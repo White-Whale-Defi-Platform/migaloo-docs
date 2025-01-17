@@ -2,7 +2,7 @@
 
 ## What is Migaloo?
 
-Migaloo is a permissionless and open-source Proof-Of-Stake layer one blockchain built using the Cosmos SDK stack and CometBFT (formally Tendermint) consensus. Migaloo was founded by the WhiteWhale team. who initially launched their arbitrage dApp on Terra Classic. Since USTs depeg in early 2022, the team pivoted to building an interchain DEX to provide more stable prices across the IBC ecosystem and subsequently launched the Migaloo Blockchain which would become 'the hub' of the WhiteWhale protocol while also providing further utility to the WHALE coin.
+Migaloo is a permissionless and open-source Proof-Of-Stake layer one blockchain built using the Cosmos SDK stack and CometBFT (formally Tendermint) consensus. Migaloo was founded by the WhiteWhale team, who initially launched their arbitrage dApp on Terra Classic. Since USTs depeg in early 2022, the team pivoted to building an interchain DEX to provide more stable prices across the IBC ecosystem and subsequently launched the Migaloo Blockchain which would become 'the hub' of the WhiteWhale protocol while also providing further utility to the WHALE coin.
 
 ## What is WHALE?
 
@@ -20,4 +20,4 @@ As well as being an industry leader in the ReStaking space, Migaloo also runs th
 
 [Telegram](http://t.me/whitewhaleofficial)
 
-X (Twitter): [Migaloo](https://twitter.com/Migaloo\_Zone) | [WhiteWhale](https://twitter.com/WhiteWhaleDefi)
+X (Twitter): [Migaloo](https://twitter.com/Migaloo_Zone) | [WhiteWhale](https://twitter.com/WhiteWhaleDefi)

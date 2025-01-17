@@ -33,19 +33,3 @@ No support for Alliance ReStaking
 {% endhint %}
 
 {% embed url="https://help.keplr.app/articles/how-to-stake-and-unstake" %}
-
-### Kujira Pod
-
-{% hint style="warning" %}
-No support for Alliance ReStaking
-{% endhint %}
-
-[https://pod.kujira.network/migaloo-1](https://pod.kujira.network/migaloo-1)
-
-comingSoon™
-
-## Auto-Compound Rewards
-
-### Yieldmos
-
-comingSoon™

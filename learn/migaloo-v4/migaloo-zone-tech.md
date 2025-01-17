@@ -6,7 +6,7 @@ description: >-
 
 # Migaloo Zone Tech
 
-## **ReStaking** (**First** [**Alliance**](https://docs.alliance.money/) **Chain):**&#x20;
+## **ReStaking** (**First** [**Alliance**](https://docs.alliance.money/) **Chain):**
 
 Migaloo was the first chain in the Cosmos to integrate the alliance module and enable the re-staking of assets. The Alliance Module allows chains to form economic Alliances. These alliances allow smaller chains to gain capital inflows from bigger chains and helps to diversify the staking rewards of smaller chains.\
 The Alliance re-staking module also allows for ecosystem tokens to be staked to the chain, helping to bootstrap Migaloo dApps such as Ginkou (Money Market) and LP tokens from WhiteWhale increasing Liquidity.
@@ -27,7 +27,7 @@ Skip enables sovereign blockchain protocols such as Migaloo Zone to supercharge 
 
 An interchain bridge allowing safe transfer of assets across chains that have Inter Blockchain Communication (IBC) enabled. Migaloo Zone always strives to use the latest IBC tech to allow its users and products to access the full security that IBC allows.
 
-## [SDK46](https://docs.cosmos.network/)
+## [SDK47](https://docs.cosmos.network/)
 
 The [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) is an open-source framework for building multi-asset public Proof-of-Stake (PoS) blockchains, like the Cosmos Hub, as well as permissioned Proof-of-Authority (PoA) blockchains. Blockchains built with the Cosmos SDK are generally referred to as **application-specific blockchains**.
 
