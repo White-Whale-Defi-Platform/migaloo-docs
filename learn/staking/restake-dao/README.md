@@ -11,7 +11,7 @@ description: >-
 
 ### **What is Restake DAO?** <a href="#id-3b55" id="id-3b55"></a>
 
-Restake DAO decentralizes Migaloo’s fiscal policy by putting control of the ReStake contract in the hands of $RSTK holders. It allows $RSTK stakers to distribute a fraction of Migaloo’s staking emissions to any asset the DAO whitelists. The voting power is directly proportional to the amount staked. This system creates positive competition between DAOs, protocols, teams, and wealthy individuals trying to benefit from Migaloo’s emissions.
+Restake DAO decentralizes Migaloo’s fiscal policy by putting control of the ReStake contract in the hands of $RSTK holders. It allows $RSTK stakers to distribute a fraction of Migaloo’s staking emissions to any asset the DAO whitelists. The voting power is directly proportional to the amount staked. This system creates positive competition between DAOs, protocols, teams, and wealthy individuals trying to benefit from Migaloo’s emissions. Although ReStake DAO uses the  Cosmos SDK Module "Alliance" it leveraes it in an extremely unique way.
 
 ### **Purpose of Restake DAO** <a href="#id-8741" id="id-8741"></a>
 

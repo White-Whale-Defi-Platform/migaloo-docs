@@ -12,7 +12,7 @@ The Migaloo Zone consists of 45 maximum active [validators](validators/ "mention
 
 ## Delegating
 
-Migaloo Zone is a Delegated Proof of Stake chain. Users delegate (aka Stake or Bond) their Coins to a validator. Delegating to a validator helps to secure the chain and allows the user's chosen validator to vote on governance proposals on the stakers behalf. Stakers can override their validator's decision should they disagree by manually voting themselves. Once a user has staked to a validator in the active set they start earning WHALE rewards from the chain's inflation and transaction fees. Migaloo stakers also earn other coins such as wBTC and OSMO LSTs. To learn more about this please read [restaking-alliance](restaking-alliance/ "mention")
+Migaloo Zone is a Delegated Proof of Stake chain. Users delegate (aka Stake or Bond) their Coins to a validator. Delegating to a validator helps to secure the chain and allows the user's chosen validator to vote on governance proposals on the stakers behalf. Stakers can override their validator's decision should they disagree by manually voting themselves. Once a user has staked to a validator in the active set they start earning WHALE rewards from the chain's inflation and transaction fees. On top of the WHALE rewards users also earn WHALE/wBTC LP tokens as Migaloo also allows users to stake this LP. When users stake the WHALE/wBTC LP a take rate is in place which distributes the LP to Vinilla WHALE stakers, Validators and the Community pool.  Migaloo stakers also earn other coins such as wBTC and OSMO LSTs. To learn more about this please read [restaking-alliance.md](restaking-alliance.md "mention")
 
 ## Undelegating and Redelegating
 
