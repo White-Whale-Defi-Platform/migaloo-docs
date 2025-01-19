@@ -17,7 +17,7 @@ Validators play a special role in the governance system. As pillars of the syste
 
 ### How does a Validator enter the 'Active Set'?
 
-Migaloo Zone has a validator set of 50. To become an active validator on Migaloo a validator must receive more delegations than the bottom validator. This is not a set number in terms of WHALE or dollar amount and can vary. To enter the active set anyone can delegate to the validator, including the Validator themselves.
+Migaloo Zone has a max validator set of 45. To become an active validator on Migaloo a validator must receive more delegations than the bottom validator. This is not a set number in terms of WHALE or dollar amount and can vary. To enter the active set anyone can delegate to the validator, including the Validator themselves.
 
 ### Can a validator run away with their delegators' WHALE? <a href="#can-a-validator-run-away-with-their-delegators-atom" id="can-a-validator-run-away-with-their-delegators-atom"></a>
 
@@ -41,4 +41,3 @@ If a validator misbehaves, their delegated stake is partially slashed. Two fault
 
 * **Double signing:** If someone reports on chain A that a validator signed two blocks at the same height on chain A and chain B, and if chain A and chain B share a common ancestor, then this validator gets slashed by 5% on chain A.
 * **Downtime:** If a validator misses more than `95%` of the last `10,000` blocks (roughly \~15.5 hours), they are slashed by 0.01%.
-
