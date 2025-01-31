@@ -19,21 +19,13 @@ Migaloo Alliance assets are decided by governance proposals. Any IBC assets can 
 
 Liquidity is a key part of any DeFi ecosystem, that's why Migaloo Zone has chosen to adopt the unique strategy of allowing WHALE / wBTC liquidity pool tokens (LPs) to be staked to the chain and earn a portion of Migaloo's staking rewards. This tactic bolsters the liquidity of the chain's flagship application, WhiteWhale (WW).
 
-### Take Rate
-
-Stakers of WHALE/wBTC are subject to a take rate of 50%. The take rate is an annualized "tax" applied to a particular Alliance assets, in the case WHALE/wBTC LP tokens. The take rate is redistributed to all stakers meaning $WHALE stakers, as well as validators also earn the LP token. On top of this the community pool also earns WHALE/wBTC LP tokens, gradually building protocol owned liquidity.
-
 ## WHALEx
 
 WHALEx is a liquid staking derivative of staked WHALE/wBTC LP tokens. This token auto-compounds allowing users to maximise reward efficiency and create a positive feedback loop for WHALE liquidity.
 
+### Take Rate
 
-
-
-
-
-
-
+Stakers of WHALE/wBTC are subject to a take rate of 50%. The take rate is an annualized "tax" applied to a particular Alliance assets, in the case WHALE/wBTC LP tokens. The take rate is redistributed to all stakers meaning $WHALE stakers, as well as validators also earn the LP token. On top of this the community pool also earns WHALE/wBTC LP tokens, gradually building protocol owned liquidity.
 
 ### Learn More About the Alliance Module:
 

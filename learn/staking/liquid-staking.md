@@ -16,6 +16,16 @@ With traditional methods of staking, users coins are subject to bonding and unbo
 
 {% embed url="https://docs.whitewhale.money/white-whale/liquidity-hub/whale-lair" %}
 
+## WHALEx
+
+WHALEx is an innovative liquid staking solution designed by leveraging the Alliance SDK module. WHALEx is a liquid staked version of WHALE/wBTC LP tokens staked to Migaloo. By liquid staking WHALE/wBTC LP tokens through WHALEx, users maximize their staking rewards, and contribute to protocol-owned liquidity (PoL) on Migaloo.
+
+### How WHALEx Works
+
+The Alliance module enables users to stake WHALE/wBTC LP tokens to the Migaloo blockchain, earning a portion of Migaloo’s inflation as staking rewards. However, standard LP staking involves a take rate — a percentage of staked LP tokens distributed to WHALE stakers, the community pool, and validators.
+
+By liquid staking with WHALEx, users retain their LP position through while their staking rewards are automatically used to generate more LP tokens, which are then staked again. This compounding mechanism enhances liquidity and increases TVL without requiring users to manage their staking positions manually.
+
 ## Utility
 
 Our liquid staking tokens are unique with the fact they have utility across various Cosmos chains. WHALE LSTs can be bonded to the WhiteWhale DEX in order to earn a portion of WHALE buybacks. The buybacks are powered by the volume of the DEX on that particular chain. Higher volume, higher rewards. \
