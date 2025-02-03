@@ -4,7 +4,7 @@ description: Standard colours used across Migaloo and WhiteWhale
 
 # Colour
 
-<figure><img src="../.gitbook/assets/Migaloo Colours.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Migaloo Colours (1).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Green Hex" %}

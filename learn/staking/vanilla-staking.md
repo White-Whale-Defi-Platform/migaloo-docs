@@ -8,11 +8,11 @@ description: >-
 
 ## Staking
 
-The Migaloo Zone consists of 50 active [validators](validators/ "mention") who work to participate in consensus, validate transactions and produce the chains 'blocks'. Validators are assigned a rank based on the number of tokens delegated to them, the higher a validator's rank the more WHALE has been delegated to them and thus the more voting power they have as 1 WHALE = 1 vote.&#x20;
+The Migaloo Zone consists of 45 maximum active [validators](validators/ "mention") who work to participate in consensus, validate transactions and produce the chains 'blocks'. Validators are assigned a rank based on the number of tokens delegated to them, the higher a validator's rank the more WHALE has been delegated to them and thus the more voting power they have as 1 WHALE = 1 vote.
 
 ## Delegating
 
-Migaloo Zone is a Delegated Proof of Stake chain. Users delegate (aka Stake or Bond) their Coins to a validator. Delegating to a validator helps to secure the chain and allows the user's chosen validator to vote on governance proposals on the stakers behalf. Stakers can override their validator's decision should they disagree by manually voting themselves. Once a user has staked to a validator in the active set they start earning WHALE rewards from the chain's inflation and transaction fees. Migaloo stakers also earn other coins such as wBTC and OSMO LSTs. To learn more about this please read [restaking-alliance](restaking-alliance/ "mention")
+Migaloo Zone is a Delegated Proof of Stake chain. Users delegate (aka Stake or Bond) their Coins to a validator. Delegating to a validator helps to secure the chain and allows the user's chosen validator to vote on governance proposals on the stakers behalf. Stakers can override their validator's decision should they disagree by manually voting themselves. Once a user has staked to a validator in the active set they start earning WHALE rewards from the chain's inflation and transaction fees. On top of the WHALE rewards users also earn WHALE/wBTC LP tokens as Migaloo also allows users to stake this LP. When users stake the WHALE/wBTC LP a take rate is in place which distributes the LP to Vinilla WHALE stakers, Validators and the Community pool.  Migaloo stakers also earn other coins such as wBTC and OSMO LSTs. To learn more about this please read [restaking-alliance.md](restaking-alliance.md "mention")
 
 ## Undelegating and Redelegating
 
@@ -28,6 +28,6 @@ Staking on Migaloo is incentivised by rewarding stakers and validators with WHAL
 
 ## Slashing
 
-Slashing is an event, which results in a loss of stake percentage when a validator misbehaves. It is a financial incentive to act properly and also a measure to prevent a 'nothing at stake' problem. When a validator fails to sign too many pre-commits or causes a double-sign, slashing can happen. When a validator gets slashed, their delegators’ WHALE will be slashed as well.&#x20;
+Slashing is an event, which results in a loss of stake percentage when a validator misbehaves. It is a financial incentive to act properly and also a measure to prevent a 'nothing at stake' problem. When a validator fails to sign too many pre-commits or causes a double-sign, slashing can happen. When a validator gets slashed, their delegators’ WHALE will be slashed as well.
 
 Slashing can hurt delegators’ shares, so delegators must be aware of their validators’ past records such as downtime to pick the safest and most secure validator.

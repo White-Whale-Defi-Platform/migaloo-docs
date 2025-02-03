@@ -6,7 +6,3 @@ The Migaloo Chain boasts a variety of dApps from Money Markets to Games. If you 
 
 * info@whitewhale.money
 * [Discord](https://discord.gg/pc5EXCBfEw) via a Business Ticket
-* **PonziNinja (Buisness Development Lead):**
-  * X (Twitter) - [scrt\_ninja](https://twitter.com/scrt\_ninja)
-  * Telegram - @Ponzi\_Ninja\_1
-

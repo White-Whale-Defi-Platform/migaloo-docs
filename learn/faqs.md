@@ -12,7 +12,7 @@ description: Frequently asked questions about Migaloo, Cosmos and Crypto.
 
 ### What is a smart contract?
 
-A  smart contract is a digital program on the blockchain that automatically executes agreed-upon actions without needing intermediaries.
+A smart contract is a digital program on the blockchain that automatically executes agreed-upon actions without needing intermediaries.
 
 ### What is a "seed phrase"?
 
@@ -55,7 +55,3 @@ Migaloo Zone is a decentralised permissionless Layer One blockchain, WhiteWhale 
 ### What Validator should I stake with?
 
 [choose-a-validator.md](staking/validators/choose-a-validator.md "mention")
-
-### What are "tASSETS"?
-
-tASSETS are a liquid staked version of WHALE LSTs that have been alliance staked to the Terra blockchain. These tASSETS are auto compounding and can be used for DeFi purposes suhvc as borrowing and lending. ampWHALEt and bWHALEt are both tASSETs, not to be confused with ampWHALE and bWHALE, which are both liquid staked WHALE but have not been staked to the Terra Blockchain.
